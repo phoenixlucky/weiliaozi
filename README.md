@@ -6,47 +6,72 @@
 
 ## 章节目录
 
-| # | 篇名 | 英文标题 |
-|---|------|---------|
-| 01 | [天官](01-tian-guan.md) | Heavenly Officials |
-| 02 | [兵谈](02-bing-tan.md) | Bing Tan (On Military) |
-| 03 | [制谈](03-zhi-tan.md) | Zhidan (On Institutions) |
-| 04 | [战威](04-zhan-wei.md) | Warfare and Authority |
-| 05 | [攻权](05-gong-quan.md) | Strategic Strength in Attack |
-| 06 | [守权](06-shou-quan.md) | Defensive Strategy |
-| 07 | [十二陵](07-shi-er-ling.md) | Twelve Attributes |
-| 08 | [武议](08-wu-yi.md) | Martial Wisdom |
-| 09 | [将理](09-jiang-li.md) | The General as Judge |
-| 10 | [原官](10-yuan-guan.md) | On Officialdom |
-| 11 | [治本](11-zhi-ben.md) | Fundamental Governance |
-| 12 | [战权](12-zhan-quan.md) | The Authority of War |
-| 13 | [重刑令](13-zhong-xing-ling.md) | Severe Punishment Decree |
-| 14 | [伍制令](14-wu-zhi-ling.md) | Mutual Responsibility Decree |
-| 15 | [分塞令](15-fen-sai-ling.md) | Order on Divided Blockades |
-| 16 | [束伍令](16-shu-wu-ling.md) | Command on Troop Binding |
-| 17 | [经卒令](17-jing-zu-ling.md) | Regulations on Troop Organization |
-| 18 | [勒卒令](18-le-zu-ling.md) | Command on Troop Discipline |
-| 19 | [将令](19-jiang-ling.md) | General's Commands |
-| 20 | [踵军令](20-zhong-jun-ling.md) | Command of the Follow-up Army |
-| 21 | [兵教上](21-bing-jiao-shang.md) | Military Training, Part I |
-| 22 | [兵教下](22-bing-jiao-xia.md) | Military Training, Part II |
-| 23 | [兵令上](23-bing-ling-shang.md) | Military Orders, Part I |
-| 24 | [兵令下](24-bing-ling-xia.md) | Military Orders, Part II |
+| # | 篇名 | 英文标题 | 附注 |
+|---|------|---------|------|
+| 01 | [天官](01-tian-guan.md) | Heavenly Officials | 📖 群书治要异文 / 类书引文 |
+| 02 | [兵谈](02-bing-tan.md) | Bing Tan (On Military) | 📖 群书治要异文 / 类书引文 |
+| 03 | [制谈](03-zhi-tan.md) | Zhidan (On Institutions) | 📖 类书引文 |
+| 04 | [战威](04-zhan-wei.md) | Warfare and Authority | 📖 群书治要异文 |
+| 05 | [攻权](05-gong-quan.md) | Strategic Strength in Attack | |
+| 06 | [守权](06-shou-quan.md) | Defensive Strategy | |
+| 07 | [十二陵](07-shi-er-ling.md) | Twelve Attributes | |
+| 08 | [武议](08-wu-yi.md) | Martial Wisdom | 📖 类书引文 |
+| 09 | [将理](09-jiang-li.md) | The General as Judge | |
+| 10 | [原官](10-yuan-guan.md) | On Officialdom | 📖 类书引文 |
+| 11 | [治本](11-zhi-ben.md) | Fundamental Governance | |
+| 12 | [战权](12-zhan-quan.md) | The Authority of War | |
+| 13 | [重刑令](13-zhong-xing-ling.md) | Severe Punishment Decree | |
+| 14 | [伍制令](14-wu-zhi-ling.md) | Mutual Responsibility Decree | |
+| 15 | [分塞令](15-fen-sai-ling.md) | Order on Divided Blockades | |
+| 16 | [束伍令](16-shu-wu-ling.md) | Command on Troop Binding | |
+| 17 | [经卒令](17-jing-zu-ling.md) | Regulations on Troop Organization | |
+| 18 | [勒卒令](18-le-zu-ling.md) | Command on Troop Discipline | |
+| 19 | [将令](19-jiang-ling.md) | General's Commands | |
+| 20 | [踵军令](20-zhong-jun-ling.md) | Command of the Follow-up Army | |
+| 21 | [兵教上](21-bing-jiao-shang.md) | Military Training, Part I | |
+| 22 | [兵教下](22-bing-jiao-xia.md) | Military Training, Part II | |
+| 23 | [兵令上](23-bing-ling-shang.md) | Military Orders, Part I | |
+| 24 | [兵令下](24-bing-ling-xia.md) | Military Orders, Part II | 📖 群书治要异文 / 类书引文 |
+| — | [附录：历代文献辑录](appendix-external-references.md) | External References | 文心雕龙、史记、通典等 |
+
+## 项目特色
+
+### 三版对照
+
+本项目汇集了《尉缭子》的三种重要版本/文本来源：
+
+| 版本 | 时代 | 篇数 | 特点 |
+|------|------|------|------|
+| **武经七书本**（底本） | 北宋 | 24篇全 | 最完整的传世本 |
+| **群书治要本**（异文） | 唐·魏徵编 | 4篇选录 | 唐代抄本，文字有重要差异 |
+| **太平御览引文**（佚文） | 宋·李昉编 | 多条 | 类书引文，保存古本面貌 |
+
+### 类书引文辑录
+
+从《太平御览》《通典》《卫公兵法》《墨子闲诂》等唐宋文献中辑录了《尉缭子》引文，与传世本逐条对照，揭示文本演变轨迹。
+
+### 文本校勘
+
+每篇异文附有校勘记，标注各版本文字差异，包括：
+- 人名异文：公子心 / 将军子正 / 将军子心
+- 地名异文：盟津 / 棘津、济水 / 清水
+- 数字异文：二万二千五百 / 万二千
+- 句式异文：问答体 / 陈述体
 
 ## 资料来源
 
 - 中文原文：中国哲学书电子化计划 [ctext.org](https://ctext.org/wei-liao-zi/zhs) — 《续古逸丛书》本《武经七书》/《明本武经七书直解》本《尉缭子直解》
 - 英文翻译：中国哲学书电子化计划（人工智能和用户贡献）
+- 群书治要本：中国哲学书电子化计划 [卷三十七](https://ctext.org/qunshu-zhiyao/37/zhs)
+- 类书引文：中国哲学书电子化计划检索 [汉代之后·尉缭](https://ctext.org/post-han/zhs?searchu=%E5%B0%89%E7%BC%AD)
 
-## 版本对照
+## 项目结构
 
-本项目以《武经七书》本《尉缭子》24篇为底本，同时收录了《群书治要》卷三十七收录的《尉缭子》选段（天官、兵谈、战威、兵令4篇），作为异文对照。
+```
+weiliaozi/
+├── README.md                     # 项目说明
+├── 01-tian-guan.md ~ 24-bing-ling-xia.md  # 24章正文
+├── appendix-external-references.md        # 历代文献辑录附录
+```
 
-| 版本 | 时代 | 篇数 | 特点 |
-|------|------|------|------|
-| 武经七书本 | 北宋 | 24篇 | 最完整的传世本，分为天官、兵谈、制谈等 |
-| 群书治要本 | 唐（魏徵编） | 4篇选录 | 唐代抄本选段，文字与武经七书本有重要差异 |
-
-带有 📖 群书治要异文 标记的章节（[天官](01-tian-guan.md)、[兵谈](02-bing-tan.md)、[战威](04-zhan-wei.md)、[兵令](24-bing-ling-xia.md)）收录了群书治要版原文与异文说明。
-
-带有 📖 类书引文 标记的章节收录了《太平御览》等宋代类书所引《尉缭子》佚文及异文对照。全部外部引文综录见 [附录：历代文献引《尉缭子》辑录](appendix-external-references.md)。
+📖 标记的章节包含群书治要异文或类书引文对照。
