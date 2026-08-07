@@ -99,6 +99,7 @@
 ```
 weiliaozi/
 ├── README.md                     # 项目说明 · project overview
+├── LICENSE                        # CC BY 4.0 开源协议 · license
 ├── 01-tian-guan.md ~ 24-bing-ling-xia.md  # 24章正文 · the 24 chapters
 ├── appendix-yinqueshan-bamboo-slips.md    # 银雀山汉简辑录附录 · Yinqueshan bamboo slips
 └── appendix-external-references.md        # 历代文献辑录附录 · external references
@@ -107,3 +108,13 @@ weiliaozi/
 📖 标记的章节包含群书治要异文或类书引文对照。
 
 *Chapters marked 📖 include Qunshu Zhiyao variants or encyclopedia-quotation collations.*
+
+## 开源协议 · License
+
+本项目采用 **Creative Commons Attribution 4.0 International (CC BY 4.0)** 协议，详见 [LICENSE](LICENSE)。
+
+*This project is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license. See [LICENSE](LICENSE) for details.*
+
+古籍原文（武经七书本、群书治要本、银雀山汉简释文）属公有领域或出土文献；本协议适用于本仓库的英文翻译、校勘记与编辑整理。
+
+*The classical source texts (Wujing Qishu, Qunshu Zhiyao, and Yinqueshan bamboo-slip transcriptions) are public-domain or excavated material; this license covers the English translations, collation notes, and editorial arrangement in this repository.*
