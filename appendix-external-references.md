@@ -60,7 +60,48 @@
 
 与《卫公兵法》引文相比，《通典》多"其"字（"不胜其勇"）、"然"字（"然不从令者"），用字略异。
 
-## 七、其他文献简目
+## 七、《初学记》引宅制佚文
+
+唐代徐坚《初学记》卷二十四"宅第八"引《尉缭子》佚文，反映原书含礼制（等级空间制度）内容，今本无存：
+
+> 《初学记》引《尉缭子》曰："天子宅千亩，诸侯百亩，大夫以下里舍九亩，历代之宅。"
+
+*The Chuxue Ji (Classified Anthology for Beginners), juan 24, "Dwellings 8" quotes the Wei Liaozi: "The Son of Heaven's residence is a thousand mu, the feudal lords' a hundred mu, and below the grand officers, nine mu per hamlet dwelling — the dwellings of successive ages."*
+
+> 校勘：此条不见于今本24篇，属《汉书·艺文志》著录"杂家"系统内容（杂家29篇），与兵家主体有别，印证原书包含国家制度设计。
+
+## 八、《隋书》引冠缨制佚文
+
+《太平御览》与《隋书》均引《尉缭子》冠缨等级之制，今本无存：
+
+> 《太平御览》引《尉缭子》曰："天子玄冠玄缨，诸侯素冠素缨，自大夫以下皆皂冠皂缨。"
+> 《隋书》引《尉缭子》曰："天子玄缨，诸侯素缨。"
+
+*The Taiping Yulan quotes the Wei Liaozi: "The Son of Heaven wears a dark cap with dark tassels, the feudal lords plain caps with plain tassels, and all below the grand officers black caps with black tassels." The Suishu quotes: "The Son of Heaven has dark tassels, the feudal lords plain tassels."*
+
+> 校勘：冠缨制反映战国军阶萌芽与服饰等级规范，属佚失的"国家制度"类内容。本篇 [10 原官](10-yuan-guan.md) 已收录《太平御览》两条异文（"大夫已下练冠练缨"与"自大夫以下，皆皂冠皂缨"），可互参。
+
+## 九、《唐李问对》引黄帝刑德佚文
+
+《唐李问对》卷下引《尉缭子》论黄帝刑德，与今本《天官》篇相关而文字有异：
+
+> 《唐李问对》卷下："靖再拜谢曰：臣案《尉缭子》曰：'黄帝以德守之，以刑伐之。'是谓刑德，非天官时日之谓也。然诡道可使由之，不可使知之。后世庸将泥于术数，是以多败，不可不诫也。陛下圣训，臣即宣告诸将。"
+
+*Li Jing, in the Questions and Replies between Tang Taizong and Li Jing (vol. 2), states: "I examined the Wei Liaozi, which says: 'The Yellow Emperor defended with virtue and attacked with punishment.' This is what is meant by Xingde — not the heavenly officials and auspicious days. Yet the arts of deception may be made use of but cannot be explained. Later mediocre generals became mired in numerology, which is why many were defeated. I shall proclaim this teaching to my generals."*
+
+> 校勘：今本《天官》篇作"刑以伐之，德以守之"（见 [01 天官](01-tian-guan.md)），此引作"以德守之，以刑伐之"，语序倒置；且李靖明言"是谓刑德，非天官时日之谓"，与今本主旨一致，可证唐代所见文本与传世本同源而文字有异。
+
+## 十、《后汉孝灵皇帝纪》注引佚文
+
+《后汉孝灵皇帝纪》卷二十五注文引《尉缭子》，与今本《兵谈》篇"治兵者，若秘于地，若邃于天"同源：
+
+> 《后汉孝灵皇帝纪》卷第二十五："国今已陷受害之地，而陈仓保不拔之城，我可不烦兵而取全胜之功……"下注尉缭子曰："若秘于地，若邃于天是也。守则固，是自保也；攻则取，是全胜也。"
+
+*The Annals of Emperor Xiaoling of the Later Han (juan 25) cites the Wei Liaozi in its commentary: "As if hidden in the earth, as if deep in the heavens — that is it. To defend is to be secure, which is self-preservation; to attack is to take, which is complete victory."*
+
+> 校勘：今本《兵谈》篇作"治兵者，若秘于地，若邃于天，生于无，故关之"（见 [02 兵谈](02-bing-tan.md)），此注引申为"守则固，是自保也；攻则取，是全胜也"，可见该句在后世的注解流传。
+
+## 十一、其他文献简目
 
 以下文献亦提及"尉缭"或《尉缭子》，多属引述或字书训诂，非直接引用原文：
 
