@@ -44,6 +44,8 @@ When feudal lords strictly observe the Son of Heaven's rites, and rulers and min
 
 **银雀山汉简〈原官〉释文：** ……偿尊参会，移民之具也。均地分，节傅（赋）敛，□……臣主根也。刑赏明省，畏诛重奸，止奸……原，正（政）事之均也。……王之二术也。柤（俎）豆同利制天下……王者之德也。明礼常，霸者之……无事□，上无庆赏，民无狱讼，国无商贾，成王至正也；服奉下迵，成王至德也。
 
+*… these are the instruments for shifting the people. Equalize the division of land, moderate the levying of taxes … the root of minister and sovereign. When punishments and rewards are clear and sparing, when men dread execution and felony is severely dealt with, wrongdoing is stopped … such is the evenness of government affairs. … the two arts of the king. With the sacrificial vessels sharing the benefits, one governs the world … such is the virtue of the king. Clarifying the constant norms of ritual, … of the hegemon. … when there is no business left to be done, when the sovereign above grants no rewards for merit, the people have no lawsuits, and the state has no merchants—this is the perfect uprightness of the completed king; when clothing and support flow down to all, this is the perfect virtue of the completed king.*
+
 > 对照要点：今本第2段作"均井地，节赋敛"，汉简作"均地分，节傅（赋）敛"，"井地/地分"表述不同；今本第5段作"俎豆同制，天子之会也"，汉简作"柤（俎）豆同利制天下"，"制"字归属与句意有别；今本第6段作"上无庆赏，民无狱讼，国无商贾，何王之至？"，汉简作"上无庆赏，民无狱讼，国无商贾，成王至正也"，一作反诘问句、一作判断句，句式互异；汉简"明礼常"（明礼制纲常）为今本所无，今本第3段仅存"明法稽验"等法家表述。
 
 ## 📖 类书引文
