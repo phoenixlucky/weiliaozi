@@ -10,46 +10,52 @@
 
 ## 章节目录 · Table of Contents
 
-每篇正文均先列中文原文、后附英文翻译，部分篇章附银雀山汉简异文、群书治要异文与类书引文对照。
+每章均以**终极整合版**（以武经七书本为底本、综合各版本校勘的最佳文本，中英对照）开篇，武经七书本、群书治要本、太平御览引文、银雀山汉简等各版本全文列于其后对照。
 
-*Each chapter presents the Chinese original first, followed by its English translation; some chapters additionally include variant readings from the Yinqueshan bamboo slips, the Qunshu Zhiyao, and quotations preserved in medieval encyclopedias.*
+*Each chapter opens with an **ultimate reconstructed text** (the best reading collated from all witnesses on the basis of the Wujing Qishu recension, with Chinese and English side by side); the full texts of the Wujing Qishu, the Qunshu Zhiyao, the Taiping Yulan quotations, and the Yinqueshan bamboo slips follow below for comparison.*
 
 | # | 篇名 Title | 英文标题 English Title | 附注 Notes |
 |---|------|---------|------|
-| 01 | [天官](01-tian-guan.md) | Heavenly Officials | 📖 群书治要异文 / 类书引文 · Qunshu Zhiyao variants / encyclopedia quotations |
-| 02 | [兵谈](02-bing-tan.md) | Bing Tan (On Military) | 📖 银雀山汉简异文 / 群书治要异文 / 类书引文 |
-| 03 | [制谈](03-zhi-tan.md) | Zhidan (On Institutions) | 📖 类书引文 |
-| 04 | [战威](04-zhan-wei.md) | Warfare and Authority | 📖 群书治要异文 |
-| 05 | [攻权](05-gong-quan.md) | Strategic Strength in Attack | 📖 银雀山汉简异文 |
-| 06 | [守权](06-shou-quan.md) | Defensive Strategy | 📖 银雀山汉简异文 |
-| 07 | [十二陵](07-shi-er-ling.md) | Twelve Attributes | |
-| 08 | [武议](08-wu-yi.md) | Martial Wisdom | 📖 类书引文 |
-| 09 | [将理](09-jiang-li.md) | The General as Judge | 📖 银雀山汉简异文 |
-| 10 | [原官](10-yuan-guan.md) | On Officialdom | 📖 银雀山汉简异文 / 类书引文 |
-| 11 | [治本](11-zhi-ben.md) | Fundamental Governance | |
-| 12 | [战权](12-zhan-quan.md) | The Authority of War | |
-| 13 | [重刑令](13-zhong-xing-ling.md) | Severe Punishment Decree | |
-| 14 | [伍制令](14-wu-zhi-ling.md) | Mutual Responsibility Decree | |
-| 15 | [分塞令](15-fen-sai-ling.md) | Order on Divided Blockades | |
-| 16 | [束伍令](16-shu-wu-ling.md) | Command on Troop Binding | |
-| 17 | [经卒令](17-jing-zu-ling.md) | Regulations on Troop Organization | |
-| 18 | [勒卒令](18-le-zu-ling.md) | Command on Troop Discipline | |
-| 19 | [将令](19-jiang-ling.md) | General's Commands | |
-| 20 | [踵军令](20-zhong-jun-ling.md) | Command of the Follow-up Army | |
-| 21 | [兵教上](21-bing-jiao-shang.md) | Military Training, Part I | |
-| 22 | [兵教下](22-bing-jiao-xia.md) | Military Training, Part II | |
-| 23 | [兵令上](23-bing-ling-shang.md) | Military Orders, Part I | 📖 银雀山汉简异文 |
-| 24 | [兵令下](24-bing-ling-xia.md) | Military Orders, Part II | 📖 银雀山汉简异文 / 群书治要异文 / 类书引文 |
+| 01 | [天官](01-tian-guan.md) | Heavenly Officials | 版本对照：群书治要本 / 太平御览引文 / 墨子闲诂引文 · Qunshu Zhiyao / Taiping Yulan / Mozi Jiangu |
+| 02 | [兵谈](02-bing-tan.md) | Bing Tan (On Military) | 版本对照：银雀山汉简 / 群书治要本 / 太平御览引文 · Han slips / Qunshu Zhiyao / Taiping Yulan |
+| 03 | [制谈](03-zhi-tan.md) | Zhidan (On Institutions) | 版本对照：太平御览引文 · Taiping Yulan |
+| 04 | [战威](04-zhan-wei.md) | Warfare and Authority | 版本对照：群书治要本 · Qunshu Zhiyao |
+| 05 | [攻权](05-gong-quan.md) | Strategic Strength in Attack | 版本对照：银雀山汉简 · Han slips |
+| 06 | [守权](06-shou-quan.md) | Defensive Strategy | 版本对照：银雀山汉简 · Han slips |
+| 07 | [十二陵](07-shi-er-ling.md) | Twelve Attributes | 仅武经七书本一种版本 · Wujing Qishu only |
+| 08 | [武议](08-wu-yi.md) | Martial Wisdom | 版本对照：太平御览引文 / 墨子闲诂引文 · Taiping Yulan / Mozi Jiangu |
+| 09 | [将理](09-jiang-li.md) | The General as Judge | 版本对照：银雀山汉简 · Han slips |
+| 10 | [原官](10-yuan-guan.md) | On Officialdom | 版本对照：银雀山汉简 / 太平御览引文 · Han slips / Taiping Yulan |
+| 11 | [治本](11-zhi-ben.md) | Fundamental Governance | 仅武经七书本一种版本 · Wujing Qishu only |
+| 12 | [战权](12-zhan-quan.md) | The Authority of War | 仅武经七书本一种版本 · Wujing Qishu only |
+| 13 | [重刑令](13-zhong-xing-ling.md) | Severe Punishment Decree | 仅武经七书本一种版本 · Wujing Qishu only |
+| 14 | [伍制令](14-wu-zhi-ling.md) | Mutual Responsibility Decree | 仅武经七书本一种版本 · Wujing Qishu only |
+| 15 | [分塞令](15-fen-sai-ling.md) | Order on Divided Blockades | 仅武经七书本一种版本 · Wujing Qishu only |
+| 16 | [束伍令](16-shu-wu-ling.md) | Command on Troop Binding | 仅武经七书本一种版本 · Wujing Qishu only |
+| 17 | [经卒令](17-jing-zu-ling.md) | Regulations on Troop Organization | 仅武经七书本一种版本 · Wujing Qishu only |
+| 18 | [勒卒令](18-le-zu-ling.md) | Command on Troop Discipline | 仅武经七书本一种版本 · Wujing Qishu only |
+| 19 | [将令](19-jiang-ling.md) | General's Commands | 仅武经七书本一种版本 · Wujing Qishu only |
+| 20 | [踵军令](20-zhong-jun-ling.md) | Command of the Follow-up Army | 仅武经七书本一种版本 · Wujing Qishu only |
+| 21 | [兵教上](21-bing-jiao-shang.md) | Military Training, Part I | 仅武经七书本一种版本 · Wujing Qishu only |
+| 22 | [兵教下](22-bing-jiao-xia.md) | Military Training, Part II | 仅武经七书本一种版本 · Wujing Qishu only |
+| 23 | [兵令上](23-bing-ling-shang.md) | Military Orders, Part I | 版本对照：银雀山汉简 · Han slips |
+| 24 | [兵令下](24-bing-ling-xia.md) | Military Orders, Part II | 版本对照：银雀山汉简 / 群书治要本 / 太平御览引文 · Han slips / Qunshu Zhiyao / Taiping Yulan |
 | — | [附录：银雀山汉简辑录](appendix-yinqueshan-bamboo-slips.md) | Yinqueshan Bamboo Slips | 出土文献 · 六篇汉简释文与佚文 · excavated bamboo slips, six reconstructed chapters and fragments |
 | — | [附录：历代文献辑录](appendix-external-references.md) | External References | 文心雕龙、史记、通典等 · Wenxin Diaolong, Shiji, Tongdian, etc. |
 
 ## 项目特色 · Features
 
+### 终极整合版 · Ultimate Reconstructed Text
+
+每章先列**终极整合版**——以武经七书本为底本框架，参校群书治要本、太平御览引文与银雀山汉简，凡异文择善而从，他版独有文句（如群书治要本"百战百胜"、汉简"胜于丧纪、胜于土功、胜于市井"等）补入，并逐处附校勘记标注取字依据。
+
+*Each chapter opens with an **ultimate reconstructed text** — based on the framework of the Wujing Qishu recension, collated against the Qunshu Zhiyao, the Taiping Yulan quotations, and the Yinqueshan bamboo slips. The best reading is adopted wherever versions differ; passages unique to other witnesses (such as "a hundred victories out of a hundred" in the Qunshu Zhiyao or "victorious over mourning rites, public works, and the marketplace" in the Han slips) are restored, each with a collation note recording the textual basis.*
+
 ### 版本对照 · Version Comparison
 
-本项目汇集了《尉缭子》的四种重要版本/文本来源：
+每章终极整合版之下依次列各版本全文：**武经七书本**（底本）→ **群书治要本** → **太平御览引文** → **银雀山汉简**；无其他版本的章节注明"仅存武经七书本一种版本"。本项目汇集了《尉缭子》的四种重要版本/文本来源：
 
-*This project brings together four important versions/textual sources of the Wei Liaozi:*
+*Below the reconstructed text, the full text of each version is given in turn: the **Wujing Qishu** (base recension) → the **Qunshu Zhiyao** → the **Taiping Yulan quotations** → the **Yinqueshan bamboo slips**; chapters with no other witness state that "only the Wujing Qishu recension survives." The four important versions/textual sources of the Wei Liaozi are:*
 
 | 版本 Version | 时代 Era | 篇数 Chapters | 特点 Features |
 |------|------|------|------|
@@ -105,9 +111,9 @@ weiliaozi/
 └── appendix-external-references.md        # 历代文献辑录附录 · external references
 ```
 
-📖 标记的章节包含银雀山汉简异文、群书治要异文或类书引文对照。
+每章均以终极整合版开篇，下方为版本对照（武经七书本 → 群书治要本 → 太平御览引文 → 银雀山汉简）；仅存武经七书本一种版本的章节在版本对照区注明。
 
-*Chapters marked 📖 include Yinqueshan bamboo-slip variants, Qunshu Zhiyao variants, or encyclopedia-quotation collations.*
+*Each chapter opens with the ultimate reconstructed text, followed below by the version comparison (Wujing Qishu → Qunshu Zhiyao → Taiping Yulan quotations → Yinqueshan bamboo slips); chapters preserving only the Wujing Qishu recension so indicate in the comparison section.*
 
 ## 开源协议 · License
 
