@@ -41,7 +41,7 @@
 | 23 | [兵令上](23-bing-ling-shang.md) | Military Orders, Part I | 版本对照：银雀山汉简 · Han slips |
 | 24 | [兵令下](24-bing-ling-xia.md) | Military Orders, Part II | 版本对照：银雀山汉简 / 群书治要本 / 太平御览引文 · Han slips / Qunshu Zhiyao / Taiping Yulan |
 | — | [附录：银雀山汉简辑录](appendix-yinqueshan-bamboo-slips.md) | Yinqueshan Bamboo Slips | 出土文献 · 六篇汉简释文与佚文 · excavated bamboo slips, six reconstructed chapters and fragments |
-| — | [附录：历代文献辑录](appendix-external-references.md) | External References | 文心雕龙、史记、通典、太平御览服章部等 · Wenxin Diaolong, Shiji, Tongdian, Taiping Yulan (Garments), etc. |
+| — | [附录：历代文献辑录](appendix-external-references.md) | External References | 文心雕龙、史记、通典、太平御览服章部、北堂书钞等 · Wenxin Diaolong, Shiji, Tongdian, Taiping Yulan (Garments), Beitang Shuchao, etc. |
 
 ## 项目特色 · Features
 
@@ -66,9 +66,9 @@
 
 ### 类书引文辑录 · Quotations from Medieval Encyclopedias
 
-从《太平御览》《通典》《卫公兵法》《墨子闲诂》《初学记》《唐李问对》等唐宋文献中辑录了《尉缭子》引文，与传世本逐条对照，揭示文本演变轨迹。其中《太平御览·服章部一·总叙冠》所引"冠之于人也，寒不能暖，风弗能障"与"鲁人身善制冠，妾善织履"两条论冠、说喻之语，为今本所无的佚文，本次辑录新增。
+从《太平御览》《通典》《卫公兵法》《墨子闲诂》《初学记》《唐李问对》《北堂书钞》《文选》李善注等唐宋文献，以及《大学衍义补》《御定渊鉴类函》等后代类书、注疏中辑录了《尉缭子》引文，与传世本逐条对照，揭示文本演变轨迹。其中不见于今本的佚文包括：《太平御览·服章部一·总叙冠》所引"冠之于人也，寒不能暖，风弗能障""鲁人身善制冠，妾善织履"两条，以及《北堂书钞·衣冠部》《御定渊鉴类函·服饰部》所引"天子文衣文缘"一条，均系本次辑录新增。
 
-*Quotations of the Wei Liaozi are collected from Tang-Song sources such as the Taiping Yulan, Tongdian, Wei Gong Bingfa (Li Jing's Methods), Mozi Xiangu, Chuxue Ji, and Tang Taizong Li Jing Wendui, then compared item by item with the received text to trace the evolution of the work. Among these, two passages quoted in the Taiping Yulan (Garments 1: Caps, General Account) — "As for the cap upon a man: it cannot warm him in cold, cannot shield him from wind" and "A man of Lu was skilled at making caps, and his concubine skilled at weaving shoes" — are fragments absent from the received text and are newly added in this collection.*
+*Quotations of the Wei Liaozi are collected from Tang-Song sources such as the Taiping Yulan, Tongdian, Wei Gong Bingfa (Li Jing's Methods), Mozi Xiangu, Chuxue Ji, Tang Taizong Li Jing Wendui, the Beitang Shuchao, and Li Shan's Wenxuan commentary, as well as later encyclopedias and commentaries such as the Daxue Yanyi Bu and Yuding Yuanyu Leihan, then compared item by item with the received text to trace the evolution of the work. Fragments absent from the received text include two quoted in the Taiping Yulan (Garments 1: Caps, General Account) — "As for the cap upon a man: it cannot warm him in cold, cannot shield him from wind" and "A man of Lu was skilled at making caps, and his concubine skilled at weaving shoes" — and one quoted in the Beitang Shuchao (Garments) and the Yuding Yuanyu Leihan (Garments), "the Son of Heaven's robes are patterned, and their borders are patterned"; all are newly added in this collection.*
 
 ### 银雀山汉简 · The Yinqueshan Bamboo Slips
 
@@ -97,8 +97,8 @@
   *Qunshu Zhiyao recension: Chinese Text Project, [juan 37](https://ctext.org/qunshu-zhiyao/37/zhs).*
 - 类书引文：中国哲学书电子化计划检索 [汉代之后·尉缭](https://ctext.org/post-han/zhs?searchu=%E5%B0%89%E7%BC%AD)
   *Encyclopedia quotations: Chinese Text Project search, [post-Han "Wei Liao"](https://ctext.org/post-han/zhs?searchu=%E5%B0%89%E7%BC%AD).*
-- 服章部佚文：《太平御览·服章部一·总叙冠》（据中国哲学书电子化计划 [汉代之后·尉缭](https://ctext.org/post-han/zhs?searchu=%E5%B0%89%E7%BC%AD) 检索辑录）
-  *Garments-section fragments: Taiping Yulan, "Garments 1: Caps, General Account" (recovered via the Chinese Text Project search, [post-Han "Wei Liao"](https://ctext.org/post-han/zhs?searchu=%E5%B0%89%E7%BC%AD)).*
+- 服章部佚文：《太平御览·服章部一·总叙冠》（据中国哲学书电子化计划 [汉代之后·尉缭](https://ctext.org/post-han/zhs?searchu=%E5%B0%89%E7%BC%AD) 检索辑录）；衣制佚文：《北堂书钞·衣冠部》《御定渊鉴类函·服饰部》（据维基文库检索辑录）
+  *Garments-section fragments: Taiping Yulan, "Garments 1: Caps, General Account" (recovered via the Chinese Text Project search, [post-Han "Wei Liao"](https://ctext.org/post-han/zhs?searchu=%E5%B0%89%E7%BC%AD)); attire fragments: Beitang Shuchao (Garments) and Yuding Yuanyu Leihan (Garments), recovered via Wikisource.*
 - 银雀山汉简：知乎专栏《〈尉缭子〉非传世篇》（综合传世文献、出土文献及学术研究整理）
   *Yinqueshan bamboo slips: Zhihu column "Chapters of the Wei Liaozi Not in the Received Text" (synthesizing transmitted sources, excavated texts, and scholarly research).*
 

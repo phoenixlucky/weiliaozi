@@ -30,6 +30,10 @@
 
 *The Wei Liao recorded here is a figure of the First Emperor's reign; whether he is the same man as the military author of the Wei Liaozi has long been a matter of dispute.*
 
+又《太平御览》皇王部（卷八十六）、人事部（卷三六六、三八八）亦转录《史记》此条，属史事引述，非《尉缭子》原文引文，故不入第四节综录表。
+
+*The Taiping Yulan likewise reproduces this Shiji passage in its Imperial Kings (juan 86) and Human Affairs (juan 366, 388) sections; these are citations of historical narrative rather than direct quotations of the Wei Liaozi, and so are not listed in the overview table of section four.*
+
 ## 三、《广韵》载尉缭 · The Guangyun on Wei Liao
 
 **《广韵·物韵》"尉"字条：**
@@ -46,9 +50,9 @@
 
 ## 四、《太平御览》引《尉缭子》综录 · Taiping Yulan Quotations: Overview
 
-《太平御览》引《尉缭子》凡十余处，分布于天部、兵部、服章部、服用部等，是宋代类书辑录《尉缭子》佚文的最大来源。以下为各条出处及对应章节：
+《太平御览》引《尉缭子》凡十余处，分布于天部、兵部、服章部、服用部、疾病部、资产部、咎徵部等，是宋代类书辑录《尉缭子》佚文的最大来源。以下为各条出处及对应章节：
 
-*The Taiping Yulan quotes the Wei Liaozi in more than a dozen places, distributed among the Heavenly Affairs, Military Affairs, Garments, and Utensils sections. It is the single largest source of Wei Liaozi fragments preserved in a Song-dynasty encyclopedia. The loci and corresponding chapters are listed below:*
+*The Taiping Yulan quotes the Wei Liaozi in more than a dozen places, distributed among the Heavenly Affairs, Military Affairs, Garments, Utensils, Disease, Property, and Omen sections. It is the single largest source of Wei Liaozi fragments preserved in a Song-dynasty encyclopedia. The loci and corresponding chapters are listed below:*
 
 | 太平御览卷次 Volume | 篇目 Section | 内容概要 Content | 对应今本章节 Chapter |
 |-------------|------|---------|------------|
@@ -63,6 +67,9 @@
 | 服章部一 | 总叙冠 | 天子玄冠玄缨 · "the Son of Heaven wears a dark cap with dark tassels" | 佚文 / 10 原官 |
 | 服章部三 | 缨 | 天子玄冠玄缨（皂冠皂缨）· same, with black caps and tassels | 佚文 / 10 原官 |
 | 服用部四 | 盖 | 吴起仆嗽之盖蔽霜露 · Wu Qi's canopy shielding him from frost and dew | 08 武议 |
+| 疾病部二 | 人谓之狂 | 太公望屠牛朝歌 · Taigong Wang butchers cattle at Zhaoge | 08 武议 |
+| 资产部八 | 屠 | 太公望屠牛朝歌 · Taigong Wang butchers cattle at Zhaoge | 08 武议 |
+| 咎徵部二 | 孛 | 楚将军子心破彗星 · General Zixin defeats the comet | 01 天官 |
 
 ## 五、《卫公兵法》引《尉缭子》 · Li Jing's Art of War
 
@@ -106,16 +113,17 @@
 
 *Collation note: This entry does not appear in the received 24 chapters. It belongs to the "Miscellaneous Schools" system catalogued in the Hanshu Yiwenzhi (29 chapters), distinct from the main military text, confirming that the original work included state institutional design.*
 
-## 八、《太平御览》《隋书》引冠服类佚文 · Fragments on Caps and Garments
+## 八、《太平御览》《隋书》《北堂书钞》引冠服类佚文 · Fragments on Caps and Garments
 
-《太平御览》与《隋书》均引《尉缭子》冠缨等级之制，今本无存：
+《太平御览》《隋书》《北堂书钞》均引《尉缭子》冠缨等级之制，今本无存：
 
-*Both the Taiping Yulan and the Suishu quote the Wei Liaozi's regulations on cap-and-tassel ranks, which do not survive in the received text:*
+*The Taiping Yulan, the Suishu, and the Beitang Shuchao all quote the Wei Liaozi's regulations on cap-and-tassel ranks, which do not survive in the received text:*
 
 > 《太平御览》引《尉缭子》曰："天子玄冠玄缨，诸侯素冠素缨，自大夫以下皆皂冠皂缨。"
 > 《隋书》引《尉缭子》曰："天子玄缨，诸侯素缨。"
+> 《北堂书钞》卷一二七《衣冠部·缨》引《尉缭子》曰："天子玄冠玄缨，诸侯素缨，士大夫以下皆皂冠皂缨。"
 
-*The Taiping Yulan quotes the Wei Liaozi: "The Son of Heaven wears a dark cap with dark tassels, the feudal lords plain caps with plain tassels, and all below the grand officers black caps with black tassels." The Suishu quotes: "The Son of Heaven has dark tassels, the feudal lords plain tassels."*
+*The Taiping Yulan quotes the Wei Liaozi: "The Son of Heaven wears a dark cap with dark tassels, the feudal lords plain caps with plain tassels, and all below the grand officers black caps with black tassels." The Suishu quotes: "The Son of Heaven has dark tassels, the feudal lords plain tassels." The Beitang Shuchao (juan 127, "Garments: Tassels") quotes: "The Son of Heaven wears a dark cap with dark tassels, the feudal lords plain tassels, and the grand officers and below all black caps with black tassels."*
 
 《太平御览·服章部一·总叙冠》同处另引《尉缭子》两条，为论冠、说喻之语，亦不见于今本：
 
@@ -129,6 +137,19 @@
 > 校勘：①"冠之于人也"条论冠之无所实用而人犹戴之，与今本《原官》"贵爵富禄必称，尊卑之体也"的等级服饰思想相通；②"鲁人身善制冠"条亦见《韩非子·说林上》与《说苑·反质》，文字互异，而《太平御览》归之《尉缭子》，或为原书杂家类内容之遗存；③冠缨制反映战国军阶萌芽与服饰等级规范，属佚失的"国家制度"类内容。本篇 [10 原官](10-yuan-guan.md) 已收录《太平御览》两条异文（"大夫已下练冠练缨"与"自大夫以下，皆皂冠皂缨"），可互参。
 
 *Collation note: (1) The "As for the cap upon a man" passage argues that the cap is of no practical use, yet men still wear it — a thought akin to the rank-and-attire doctrine in Yuan Guan (chapter 10), "nobility, titles, wealth, and salaries must be commensurate; this is the proper order between superiors and inferiors." (2) The "man of Lu skilled at making caps" passage also appears in the Han Feizi ("Shuo Lin, Part I") and the Shuoyuan ("Fan Zhi") in variant wording; the Taiping Yulan attributes it to the Wei Liaozi, possibly a remnant of the original work's Miscellaneous-Schools content. (3) The cap-and-tassel regulations reflect the incipient military ranks of the Warring States and sumptuary norms of dress, belonging to the lost "state institutions" category. Chapter [10 Yuan Guan](10-yuan-guan.md) already records two variant Taiping Yulan entries ("the grandees and below wear white silk caps with white silk tassels" and "from the grandees downward, all wear black caps with black tassels"), for cross-reference.*
+
+《北堂书钞》卷一二九《衣冠部·衣》与《御定渊鉴类函》卷三七三《服饰部·衣》并引《尉缭子》天子衣制佚文，今本无存：
+
+*The Beitang Shuchao (juan 129, "Garments: Clothing") and the Yuding Yuanyu Leihan (juan 373, "Garments: Clothing") both quote a Wei Liaozi fragment on the Son of Heaven's attire, which does not survive in the received text:*
+
+> 《北堂书钞》引《尉缭子》曰："天子文衣文缘。"
+> 《御定渊鉴类函》引《尉缭子》曰："天子文衣文缘。"
+
+*The Beitang Shuchao quotes the Wei Liaozi: "The Son of Heaven's robes are patterned, and their borders are patterned." The Yuding Yuanyu Leihan quotes the same words.*
+
+> 校勘：此条为天子服饰等级之制，与冠缨制相配，同属佚失的"国家制度"类内容。"文衣文缘"谓天子之衣及其衣缘皆有文饰，以别尊卑。北堂书钞（唐）与御定渊鉴类函（清）所引文字全同，可证其为唐前旧文。御定渊鉴类函卷三七三此条与"采衣"（《楚辞》"华采衣兮若英"）并列，属服饰类辑录。
+
+*Collation note: This is a regulation on the graded attire of the Son of Heaven, matching the cap-and-tassel system, and likewise belongs to the lost "state institutions" category. "Patterned robes with patterned borders" means that both the robe and its border bore ornament, to distinguish rank. The Beitang Shuchao (Tang) and the Yuding Yuanyu Leihan (Qing) give identical wording, confirming it as pre-Tang text. In juan 373 of the Yuding Yuanyu Leihan the entry is listed alongside "variegated robes" (from the Chuci: "robed in bright and varied garments"), within a compilation on dress.*
 
 ## 九、《唐李问对》引黄帝刑德佚文 · Questions and Replies on the Yellow Emperor's *Xingde*
 
@@ -170,12 +191,48 @@
 | 《康熙字典》 | 清 Qing | 字典 Dictionary | 引《广韵》释"尉"姓 · cites the Guangyun on the surname Wei |
 | 《墨子闲诂》 | 清 Qing | 注疏 Commentary | 孙诒让注《墨子》时引《尉缭子》文为证（备城门篇引守权、兵教下、武议、经卒令、兵教上等章），并载有太公望、彗星子心等异文 · Sun Yirang cites the Wei Liaozi in his Mozi commentary (the "Bei Cheng Men" chapter draws on Shou Quan, Bing Jiao Xia, Wu Yi, Jing Zu Ling, and Bing Jiao Shang), and records variants involving Taigong Wang and the comet story of Zixin |
 
-> 注：《太平御览》尚有约3条含"尉缭"的段落位于需登录页面，未能检视全文，所涉多为皇王部、人事部中《史记》内容（尉缭相秦事），非《尉缭子》原文引文。通过直接访问太平御览搜索结果（20条，分2页），第1页全部18条实质性引文均已收录，第2页需ctext账号登录。又《太平御览·服章部一·总叙冠》论冠、鲁人徙越两条佚文，系本次自类书原文辑补，见第八节。
+> 注：《太平御览》引文另据维基文库《太平御览》全文复核，补辑疾病部、资产部、咎徵部等条，已列入第四节综录表。《太平御览》皇王部、人事部另有约3条含"尉缭"之段落，所涉为《史记》尉缭相秦事，非《尉缭子》原文引文，故不录。又《太平御览·服章部一·总叙冠》论冠、鲁人徙越两条佚文，见第八节。
 
-*Note: About three further Taiping Yulan passages containing "Wei Liao" remain on pages requiring login and could not be examined in full; they mostly concern the Shiji material in the Imperial Kings and Human Affairs sections (Wei Liao as Qin minister) rather than direct quotations of the Wei Liaozi. By directly accessing the Taiping Yulan search results (20 entries over 2 pages), all 18 substantive quotations on the first page have been collected; the second page requires a ctext account. The two fragments on caps and on the man of Lu in Taiping Yulan, "Garments 1: Caps, General Account," were newly recovered from the encyclopedia's text for this edition; see section eight.*
+*Note: The Taiping Yulan quotations have been rechecked in full against the Wikisource text of the Taiping Yulan, and entries from the Disease, Property, and Omen sections have been added; see the overview table in section four. About three further Taiping Yulan passages containing "Wei Liao" (in the Imperial Kings and Human Affairs sections) concern the Shiji material on Wei Liao as Qin minister rather than direct quotations of the Wei Liaozi, and are therefore not included. The two fragments on caps and on the man of Lu in Taiping Yulan, "Garments 1: Caps, General Account," appear in section eight.*
+
+## 十二、征引《尉缭子》诸文献综录 · Additional Sources Citing the Wei Liaozi
+
+本次辑录另检得唐宋以降征引《尉缭子》之文献多种（含《文选》李善注、《北堂书钞》《初学记》《长短经》《通典》《太平御览》诸类书，及《孙子集注》《十一家注孙子》《大学衍义补》《御定渊鉴类函》等注疏、类书）。所引绝大多数为传世本文字，可作异文校勘之资；其不见于今本者，已辑入上列各节。要目如下：
+
+*This compilation has additionally surveyed numerous works from the Tang onward that quote the Wei Liaozi (including Li Shan's Wenxuan commentary; the encyclopedias Beitang Shuchao, Chuxue Ji, Changduan Jing, Tongdian, and Taiping Yulan; and the commentaries and encyclopedias Sunzi Jizhu, Shiyijia Zhu Sunzi, Daxue Yanyi Bu, and Yuding Yuanyu Leihan). The great majority reproduce the received text and serve as variant witnesses; those not found in the received text have been collected in the sections above. The principal items are:*
+
+| 文献 Source | 时代 Era | 所引举例 Sample | 对应今本 Chapter |
+|------|------|------|------|
+| 《盐铁论》卷十一 | 汉 Han | 兵者凶器也，争者逆德也，事必有本 | 23 兵令上 |
+| 《文选》李善注卷十/三十一/三十七/四十七/五十 | 唐 Tang | 太公屠牛朝歌 / 天子玄冠玄缨 / 未有不能得其力而救其死 | 08 武议 / 佚文 / 04 战威 |
+| 《北堂书钞》卷一一三–一二九 | 唐 Tang | 止如堵墙，动如风雨 / 一人之兵如狼如虎 / 兵如总木弩如羊角 | 04 战威 / 08 武议 / 02 兵谈 |
+| 《初学记》卷二十二 | 唐 Tang | 一贼挟剑击于市，万人无不避之 | 03 制谈 |
+| 《长短经》卷一、政体第八 | 唐 Tang | 秦始皇隆准长目 / 令者所以一众心也 | 史记 / 04 战威 |
+| 《通典》卷一四九 | 唐 Tang | 吴起与秦人战，一夫不胜其勇 | 08 武议 |
+| 《史记》三家注卷一二四 | 唐 Tang | 太公望行年七十，卖食棘津 | 08 武议 |
+| 《事类赋》卷十二 | 宋 Song | 天子玄冠玄缨，诸侯素冠素缨 | 佚文 |
+| 《孙子集注》《十一家注孙子》 | 宋 Song | 讲武料敌…此道胜也 / 权敌审将而后举兵 | 04 战威 / 12 战权 |
+| 《三朝北盟会编》卷一九〇 | 宋 Song | 机在于应事，政在于意表 | 07 十二陵 |
+| 《大学衍义补》卷一一六/一二九/一四一/一四二 | 明 Ming | 凡兵不攻无过之城 / 天时不如地利 | 08 武议 / 04 战威 |
+| 《诗名物疏》卷二十二/三十六 | 明 Ming | 坐之兵剑斧，立之兵戟弩 / 天子宅千亩 | 23 兵令上 / 佚文 |
+| 《武编》前集卷一 | 明 Ming | 吴起与秦人战 | 08 武议 |
+| 《山堂肆考》卷一七一/一七九 | 明 Ming | 天子宅千亩 / 一贼挟剑击于市 | 佚文 / 03 制谈 |
+| 《御定渊鉴类函》卷四、二〇七–二二八、三四五、三六七、三七一、三七三 | 清 Qing | 各章文句（多本传世本） | 各章 / 佚文 |
+| 《艺林汇考》栋宇篇卷七、《四书逸笺》卷四 | 清 Qing | 天子宅千亩 | 佚文 |
+| 《左传补注》卷一/卷五 | 清 Qing | 立陈所以行也 / 凡伍临陈 | 23 兵令上 / 21 兵教上 |
+| 《礼说》卷十 | 清 Qing | 卒有五章 | 17 经卒令 |
+| 《钦定历代职官表》卷五十八 | 清 Qing | 军中之制，五人为伍，十人为什 | 14 伍制令 |
+| 《春秋战国异辞》卷四十四、《绎史》卷一〇九 | 清 Qing | 天官、兵谈、武议、将理、治本、兵令诸篇全文 | 01–24 |
+| 《陶庐杂录》卷五、《兵垒》卷一/卷四、《九经古义》卷二、《周易述》卷十一 | 清 Qing | 未有不信其心… / 兵以静胜 / 先神先鬼 / 兵有去备彻威 | 04 战威 / 05 攻权 / 01 天官 / 05 攻权 |
+| 《于于集》《芝峰类说》《芝峯先生集》《晦斋先生集》《东贤奏议》《承政院日记》《朝鲜王朝实录》 | 朝鲜 Joseon | 上无疑令，则众不二听 | 04 战威 |
+| 《金陵秋》卷十五 | 近代 Modern | 众已聚不虚散，兵已出不徒归 | 05 攻权 |
+
+> 校勘：①《御定渊鉴类函》卷二一一兵部引"《尉缭子》曰：圣王之用兵，非乐之也，将以诛暴讨乱也……"一条，实为《黄石公三略·下略》之文，当系类书误题，本书不收；②诸书所引多为传世本之异文，如《北堂书钞》"止如堵墙，动如风雨"（今本作"止如堵墙，动如风雨，车不结辙，士不旋踵"）、《文选》李善注"未有不能得其力而救其死"（今本作"未有不得其力而能致其死战者也"）等，可备校勘。
+
+*Collation note: (1) The Yuding Yuanyu Leihan (juan 211, Military Affairs) quotes "the Wei Liaozi: 'The sage king's use of arms is not for delight, but to punish violence and quell disorder…'", which is in fact from the Three Strategies (Sanlüe, "Xialüe"); the encyclopedia has misattributed it, and it is not included here. (2) Most quotations are variants of the received text — e.g. the Beitang Shuchao's "halts like a wall, moves like wind and rain" (received: "halts like a wall, moves like wind and rain, chariots do not turn their tracks, soldiers do not turn their heels") or Li Shan's "there has never been one who could not gain their strength yet saved them from death" (received: "there has never been one who, not gaining their hearts, could gain their strength; nor one who, not gaining their strength, could bring them to fight to the death") — and may serve for collation.*
 
 ---
 
-*辑录来源：[中国哲学书电子化计划](https://ctext.org/post-han/zhs?searchu=%E5%B0%89%E7%BC%AD)（服章部两条佚文据《太平御览·服章部一·总叙冠》原文辑补）*
+*辑录来源：[中国哲学书电子化计划](https://ctext.org/post-han/zhs?searchu=%E5%B0%89%E7%BC%AD)；冠服类佚文另据《太平御览·服章部一·总叙冠》《北堂书钞·衣冠部》《御定渊鉴类函·服饰部》原文辑补（维基文库）*
 
-*Source: the [Chinese Text Project](https://ctext.org/post-han/zhs?searchu=%E5%B0%89%E7%BC%AD) (the two Garments-section fragments were recovered from the text of Taiping Yulan, "Garments 1: Caps, General Account").*
+*Source: the [Chinese Text Project](https://ctext.org/post-han/zhs?searchu=%E5%B0%89%E7%BC%AD); the cap-and-garment fragments were additionally recovered from the text of the Taiping Yulan ("Garments 1: Caps, General Account"), the Beitang Shuchao ("Garments"), and the Yuding Yuanyu Leihan ("Garments"), via Wikisource.*
