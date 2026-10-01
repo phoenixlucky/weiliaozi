@@ -231,6 +231,131 @@
 
 *Collation note: (1) The Yuding Yuanyu Leihan (juan 211, Military Affairs) quotes "the Wei Liaozi: 'The sage king's use of arms is not for delight, but to punish violence and quell disorder…'", which is in fact from the Three Strategies (Sanlüe, "Xialüe"); the encyclopedia has misattributed it, and it is not included here. (2) Most quotations are variants of the received text — e.g. the Beitang Shuchao's "halts like a wall, moves like wind and rain" (received: "halts like a wall, moves like wind and rain, chariots do not turn their tracks, soldiers do not turn their heels") or Li Shan's "there has never been one who could not gain their strength yet saved them from death" (received: "there has never been one who, not gaining their hearts, could gain their strength; nor one who, not gaining their strength, could bring them to fight to the death") — and may serve for collation.*
 
+## 十三、唐宋以降征引《尉缭子》补辑 · Further Quotations of the Wei Liaozi
+
+> 本节补辑前文未备的征引文献，分「直接引文」「著录、注本与类书」「已核未见直接引文者」三类。
+>
+> *This section supplements the preceding compilation with sources not covered above, arranged in three groups: direct quotations; catalogues, commentaries and encyclopedias; and sources found upon examination to contain no direct quotation.*
+
+### （一）有直接引文者 · Sources with Direct Quotations
+
+**《玉海》（宋·王应麟）· Wang Yinglin, *Yuhai* (Jade Sea), Song**
+
+卷八十六「兵法」载「尉缭子兵书」条，综引汉志、隋志、唐志、晁氏志，并记张载注本：
+
+*The "Military Methods" section (juan 86) carries an entry "The Wei Liaozi, a Military Book," digesting the Hanshu Yiwenzhi, Suishu, Tangshu, and Chao Gongwu's catalogue, and noting Zhang Zai's commentary:*
+
+> 《玉海》卷八十六："汉艺文志：兵形势，尉缭子三十一篇；杂家：尉缭二十九篇，六国时。刘向别录云：缭为商君学。隋志五卷，唐六卷。晁氏志：书论兵主刑法。汉志二十九篇，今逸五篇。首篇称梁惠王问，意者魏人欤？其卒章有曰：'古之善用兵者，能杀卒之半，其次杀十三，其下杀其十一。能杀其半者，威加海内，杀十三者，力加诸侯，杀十一者，令行士卒。'观此则为术可知矣。张横渠注尉缭子一卷，载蚤年喜谈兵，后谒范文正公，爱其材，劝其学，此少作也。"
+
+*The Yuhai, juan 86: "Hanshu Yiwenzhi: in Military Situation [bing xingshi], the Wei Liaozi in thirty-one chapters; in Miscellaneous Schools, Wei Liao in twenty-nine chapters, a man of the Six States. Liu Xiang's Bielu says Liao studied the methods of Lord Shang. The Suishu has five juan, the Tangshu six. Chao's catalogue: the book discusses war and chiefly concerns punishments. The Hanshu counts twenty-nine chapters; five are lost today. Its first chapter has 'King Hui of Liang asked'; perhaps he was a man of Wei? Its final chapter says: 'Of old, those skilled in the use of arms could put to death half their soldiers; the next, thirteen in a hundred; the lowest, eleven in a hundred. He who can kill half adds might to the whole world; he who kills thirteen in a hundred adds strength to the feudal lords; he who kills eleven in a hundred makes orders obeyed among the troops.' From this one may know his methods.' Zhang Hengqu [Zhang Zai] wrote a commentary on the Wei Liaozi in one juan; it records that in his early years he delighted in discussing war, and later paid respects to Lord Fan Wenzheng, who loved his talent, urged him to study — this was a youthful work."*
+
+又「符节」条径引「束伍令」一句：
+
+*The "Tallies and Credentials" section quotes one line of the "Shu Wu Ling":*
+
+> 《玉海》"符节"："尉缭子束伍令曰：五人为伍，共一符，收于将吏之所。"
+
+*The Yuhai, "Tallies and Credentials": "The Wei Liaozi's Shu Wu Ling says: 'Five men form a squad; they share one tally, kept in the keeping of the general's officers.'"*
+
+> 校勘：①「能杀卒之半」条正合今本 [24 兵令下](24-bing-ling-xia.md)；②「束伍令」"五人为伍，共一符，收于将吏之所"不见于今本 [16 束伍令](16-shu-wu-ling.md)，可补佚句；③「张横渠注尉缭子一卷」为宋人注本，今佚，赖《玉海》存目。
+
+*Collation note: (1) The "kill half their soldiers" passage agrees with the received Bing Ling Xia (chapter 24). (2) The Shu Wu Ling line "five men form a squad; they share one tally" is absent from the received Shu Wu Ling (chapter 16) and preserves a lost sentence. (3) Zhang Hengqu's commentary on the Wei Liaozi is a Song work now lost; only its title survives through the Yuhai.*
+
+**《郡斋读书志》（宋·晁公武）· Chao Gongwu, *Junzhai Dushu Zhi*, Song**
+
+> 卷十四："《尉缭子》五卷。右尉缭子，未详何人。书论兵主刑法。按《汉艺文志》有二十九篇，今逸五篇。首篇称'梁惠王问'，意者魏人与？其卒章有曰：'古之善用兵者，能杀卒之半，其次杀其十三，其下杀其十一。能杀其半者，威加海内；杀十三者，力加诸侯；杀十一者，令行士卒。'呜呼！观此则为术可知矣。"
+
+*Junzhai Dushu Zhi, juan 14: "Wei Liaozi, five juan. On the right: Wei Liaozi, unknown whose man. The book discusses war and chiefly concerns punishments. According to the Hanshu Yiwenzhi there are twenty-nine chapters; five are lost today. Its first chapter has 'King Hui of Liang asked'; perhaps he was a man of Wei? Its final chapter says: 'Of old, those skilled in the use of arms could put to death half their soldiers; the next, thirteen in a hundred; the lowest, eleven in a hundred …' Alas! From this one may know his methods."*
+
+> 校勘：晁志为《玉海》"尉缭子兵书"条所本；其「今逸五篇」与陈振孙「今书二十三篇」互异，可见宋人著录篇数已有出入。
+
+*Collation note: Chao's catalogue is the source of the Yuhai's entry; his "five chapters lost" differs from Chen Zhensun's "the present book has twenty-three chapters," showing that Song cataloguers already disagreed on the chapter count.*
+
+**《直斋书录解题》（宋·陈振孙）· Chen Zhensun, *Zhizhai Shulu Jieti*, Song**
+
+> 卷十二兵书类："《尉缭子》五卷，六国时人。案：《汉志》杂家有二十九篇，兵形势家又有三十一篇。今书二十三篇，未知果当时本书否。"
+
+*Zhizhai Shulu Jieti, juan 12, "Military Books": "Wei Liaozi, five juan, a man of the Six States. Note: the Hanshu Yiwenzhi has twenty-nine chapters under Miscellaneous Schools, and thirty-one under Military Situation; the present book has twenty-three chapters. It is not known whether this was the original book of his time."*
+
+> 校勘：陈氏疑今本非当时旧本，开后世《尉缭子》辨伪之先声。
+
+*Collation note: Chen doubts that the received book is the original, foreshadowing later doubts about the work's authenticity.*
+
+**《习学记言序目》（宋·叶适）· Ye Shi, *Xixue Jiyan Xumu*, Song**
+
+> 卷四十六："今国被患者，以重宝出聘，以爱子出质，以地界出割，得天下助卒，名为十万，其实不过数万尔……"
+> 又："凡兵不攻无过之城，不杀无罪之人。夫杀人之父兄，利人之货财，臣妾人之子女，皆盗也。尉缭子言兵，犹能立此论。"
+
+*Xixue Jiyan Xumu, juan 46: "A state that suffers calamity sends out heavy treasures in betrothal-gifts, sends out beloved sons as hostages, cuts off and cedes border lands, and obtains the feudal lords' aiding troops — nominally a hundred thousand, in fact no more than a few tens of thousands…" And again: "In all military affairs, do not attack a city without fault, do not kill a man without crime. To kill men's fathers and brothers, to profit from their goods, to enslave their sons and daughters — all this is robbery. The Wei Liaozi, in speaking of war, could still set forth this doctrine."*
+
+> 校勘：①前段出 [03 制谈](03-zhi-tan.md)，"重宝"今本作"重币"；②后段出 [08 武议](08-wu-yi.md)。叶适以《尉缭子》"不攻无过之城"与《孙子》"得车十乘"对举，为宋人评骘该书价值之要语。
+
+*Collation note: (1) The first passage is from Zhi Tan (chapter 03); "heavy treasures" reads "heavy coins" in the received text. (2) The second is from Wu Yi (chapter 08). Ye Shi contrasts the Wei Liaozi's "do not attack a city without fault" with the Sunzi's "reward the first to seize ten chariots," a key Song appraisal of the work's value.*
+
+**《少室山房笔丛》（明·胡应麟）· Hu Yinglin, *Shaoshi Shanfang Bicong*, Ming**
+
+> 卷十一《九流绪论上》："尉缭子，兵书也，自汉至隋咸列杂家。郑渔仲以为见名不见书，马端临大善其论。然汉志兵家自有尉缭三十一篇，盖即今所传者，而杂家之尉缭非此书也。今杂家亡而兵家独传，故郑以为孟坚之误，舛矣。"
+
+*Shaoshi Shanfang Bicong, juan 11, "On the Nine Schools, Part I": "The Wei Liaozi is a military book, yet from Han to Sui it was always classed under Miscellaneous Schools. Zheng Yuzhong [Zheng Qiao] held that this was 'seeing the name but not the book,' and Ma Duanlin greatly approved. But the Hanshu Yiwenzhi's Military School has its own Wei Liao in thirty-one chapters, which is precisely what is transmitted today; the Miscellaneous-Schools Wei Liao is not this book. Now the Miscellaneous-Schools text is lost and only the Military one survives — so Zheng's charge of error against Meng Jian [Ban Gu] is mistaken."*
+
+> 校勘：此说为《四库全书总目》"兵家之尉缭即今所传，杂家之尉缭并非此书"所本，是考辨《尉缭子》著录源流的关键。
+
+*Collation note: This is the source of the Siku Quanshu Zongmu's view that the Military-School Wei Liao is what survives while the Miscellaneous-School Wei Liao is a different book; it is central to the textual history of the Wei Liaozi.*
+
+**《古今伪书考》（清·姚际恒）· Yao Jiheng, *Gujin Weishu Kao*, Qing**
+
+> "汉志杂家有二十九篇，兵家有三十一篇，今二十四篇。其首天官篇与梁惠王问对，全仿《孟子》'天时不如地利'章为说；至战威章则直举其二语矣。岂同为一时之人，其言适相符合如是耶？其伪昭然。又曰：'古之善用兵者能杀士卒之半；其次杀其十三；其下杀其十一……'教人以杀，垂之于书，尤堪痛恨！"
+
+*"The Hanshu Yiwenzhi has twenty-nine chapters under Miscellaneous Schools and thirty-one under Military; the present book has twenty-four. Its first chapter, Tian Guan, in the dialogue with King Hui of Liang, wholly imitates the Mencius chapter 'Heaven's timing is not as good as earth's advantage'; and by the Zhan Wei chapter it directly cites those two phrases. Could men of the same age truly coincide so exactly? Its forgery is manifest. It further says, 'Of old those skilled in the use of arms could kill half their soldiers; the next, thirteen in a hundred; the lowest, eleven in a hundred…' — teaching men to kill and committing it to writing, this is especially to be detested!"*
+
+> 校勘：姚氏以《天官》与《孟子》"天时不如地利"章相袭证其伪；所引"能杀士卒之半"见今本 [24 兵令下](24-bing-ling-xia.md)。
+
+*Collation note: Yao argues the work is forged because Tian Guan borrows from the Mencius chapter "Heaven's timing is not as good as earth's advantage"; the "kill half their soldiers" passage is from the received Bing Ling Xia (chapter 24).*
+
+**《武经总要》（宋·曾公亮等）· Zeng Gongliang et al., *Wujing Zongyao*, Song**
+
+> 前集引李靖问对："《司马法》曰'五人为伍'，《尉缭子》有束伍令。"
+
+*The first collection quotes the Li Jing Questions and Replies: "The Sima Fa says 'five men form a squad'; the Wei Liaozi has the Shu Wu Ling."*
+
+> 校勘：此为宋代官修兵书转录《唐李问对》之言（见第九节），与《玉海》"符节"条同，可证"束伍令"一名在宋代的流传。
+
+*Collation note: This is the Song official military compendium reproducing the Tang Li Questions and Replies (see section nine); together with the Yuhai's "Tallies and Credentials" entry it attests the currency of the name "Shu Wu Ling" in Song times.*
+
+### （二）著录、注本、类书与校勘 · Catalogues, Commentaries, Encyclopedias and Collations
+
+> 下表著录、注本、类书与校勘诸目，均为已核条目。
+>
+> *The catalogues, commentaries, encyclopedias and collation works listed below have all been verified.*
+
+| 文献 Source | 时代 Era | 性质 Nature | 内容概要 Content |
+|------|------|------|---------|
+| 《崇文总目》 | 北宋 N. Song | 官修书目 Catalogue | 著录《尉缭子》，归兵家类 · catalogued under the Military school |
+| 《通志·艺文略》《校雠略》（郑樵） | 南宋 S. Song | 书目／校雠 Catalogue | 著录，并讥班固"见名不见书" · lists the title and criticizes Ban Gu's classification |
+| 《文献通考·经籍考》（马端临） | 元 Yuan | 书目 Catalogue | 转录晁、陈二志 · reproduces the catalogues of Chao and Chen |
+| 《宋史·艺文志》 | 元 Yuan | 正史艺文志 Dynastic bibliography | 著录《尉缭子》五卷 · records the five juan |
+| 《四库全书总目》卷九十九兵家类 | 清 Qing | 书目提要 Catalogue | 论兵家、杂家两尉缭，定今本二十四篇 · the standard appraisal distinguishing the two Wei Liaos |
+| 《元和姓纂》（林宝） | 唐 Tang | 姓氏书 Surname book | "先贤尉缭著书，号尉缭子"· cites Wei Liaozi under the surname Wei |
+| 《施氏七书讲义》（施子美） | 宋 Song | 兵书注 Commentary | 《武经七书》注本之较早者 · an early commentary on the Seven Military Classics |
+| 《武经七书直解》（刘寅） | 明 Ming | 兵书注 Commentary | 逐句直解 · line-by-line commentary |
+| 《武经七书汇解》（朱墉） | 清 Qing | 兵书注 Commentary | 汇集众说 · composite commentary |
+| 《诸子汇函》《二十子》《百子全书》 | 明清 Ming–Qing | 子书丛编 Collectanea | 收录《尉缭子》全文 · collects the full text |
+| 《御定韵府拾遗》卷三十一 | 清 Qing | 韵书 Rhyme dictionary | 引"将不心制，卒不节动，虽胜幸胜也"· quotes the received Gong Quan line |
+| 《说略》卷十三（顾起元） | 明 Ming | 子书解题 Synopsis | "尉缭子（魏惠王时人）"· lists the title |
+| 《古今图书集成》 | 清 Qing | 大型类书 Encyclopedia | 戎政典卷八十四"兵法部总论四"收《尉缭子》全 · the whole text in Rongzheng Dian, "Military Methods," juan 84 |
+| 《喻林》（徐元太） | 明 Ming | 类书 Encyclopedia | 卷二十七、三十六、七十八、一百七等引制谈、战权、战威、武议诸篇 · quotes Zhi Tan, Zhan Quan, Zhan Wei and Wu Yi in juan 27, 36, 78, 107, etc. |
+| 《札迻》（孙诒让） | 清 Qing | 校勘 Textual criticism | 卷十与《六韬》《孙子》曹操注、《吴子》《司马法》《三略》同卷校《尉缭子》· collates the text alongside the other military classics in juan 10 |
+
+> 校勘：《御定韵府拾遗》所引"将不心制，卒不节动，虽胜幸胜也"出今本 [05 攻权](05-gong-quan.md)，文字全同，可证清人所见与传世本一致；《元和姓纂》《说略》则为姓氏书与子书解题之著录，非《尉缭子》原文引文。
+>
+> *Collation note: the line quoted in the Yuding Yunfu Shiyi, "the general is not the mind's control, the troops are not the limbs' motion; even if victorious, it is a lucky victory," is from the received Gong Quan (chapter 05) and matches it exactly, showing Qing readers saw the same text; the Yuanhe Xingzuan and Shuolüe are respectively a surname book and a synopsis of the masters, not direct quotations.*
+
+### （三）已核未见直接引文者及存疑 · Examined Without Direct Quotation, and Doubtful Items
+
+《艺文类聚》（唐·欧阳询）、《意林》（唐·马总）、《太平广记》（宋·李昉等）检其相关门类与卷次，均未见《尉缭子》直接引文（《艺文类聚》卷五十九所载吴起事系出《史记》《韩非子》，非《尉缭子》），姑记以备考。又清人校勘二种，经核未见《尉缭子》：于鬯《香草续校书》所校止于《老子》至《淮南子》二十二卷（兵书唯及《孙子》），卢文弨《群书拾补》四十种亦无《尉缭子》。至于（旧题）《日本国见在书目录》与《永乐大典》，或谓其兵家类著录《尉缭子》、或谓残卷存其文，然均无可靠全文可核，姑存疑备考。
+
+*The Yiwen Leiju (Tang, ed. Ouyang Xun), the Yilin (Tang, Ma Zong), and the Taiping Guangji (Song, ed. Li Fang et al.) were examined in their relevant sections and chapters and contain no direct quotation of the Wei Liaozi (the Wu Qi anecdote in Yiwen Leiju juan 59 derives from the Shiji and Han Feizi, not the Wei Liaozi); recorded here for reference. Two Qing collation works were likewise examined without finding the Wei Liaozi: Yu Chang's Xiangcao Xu Jiaoshu confines itself to the twenty-two juan from the Laozi to the Huainanzi (among military books only the Sunzi), and Lu Wenchao's Qunshu Shibu covers forty works, none of them the Wei Liaozi. As for the (attributed) Nihon Koki Genzai Shomokuroku and the Yongle Dadian, it is sometimes claimed that the former catalogues the Wei Liaozi under Military and that the latter preserves it among its fragments, but neither can be checked against a reliable full text, and both are left as doubtful for the time being.*
+
 ---
 
 *辑录来源：[中国哲学书电子化计划](https://ctext.org/post-han/zhs?searchu=%E5%B0%89%E7%BC%AD)；冠服类佚文另据《太平御览·服章部一·总叙冠》《北堂书钞·衣冠部》《御定渊鉴类函·服饰部》原文辑补（维基文库）*

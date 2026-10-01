@@ -41,7 +41,7 @@
 | 23 | [兵令上](23-bing-ling-shang.md) | Military Orders, Part I | 版本对照：银雀山汉简 · Han slips |
 | 24 | [兵令下](24-bing-ling-xia.md) | Military Orders, Part II | 版本对照：银雀山汉简 / 群书治要本 / 太平御览引文 · Han slips / Qunshu Zhiyao / Taiping Yulan |
 | — | [附录：银雀山汉简辑录](appendix-yinqueshan-bamboo-slips.md) | Yinqueshan Bamboo Slips | 出土文献 · 六篇汉简释文与佚文 · excavated bamboo slips, six reconstructed chapters and fragments |
-| — | [附录：历代文献辑录](appendix-external-references.md) | External References | 文心雕龙、史记、通典、太平御览服章部、北堂书钞等 · Wenxin Diaolong, Shiji, Tongdian, Taiping Yulan (Garments), Beitang Shuchao, etc. |
+| — | [附录：历代文献辑录](appendix-external-references.md) | External References | 文心雕龙、史记、通典、太平御览服章部、北堂书钞、玉海、郡斋读书志、直斋书录解题、习学记言序目、少室山房笔丛、古今伪书考等 · Wenxin Diaolong, Shiji, Tongdian, Taiping Yulan (Garments), Beitang Shuchao, Yuhai, Junzhai Dushu Zhi, Zhizhai Shulu Jieti, Xixue Jiyan, Shaoshi Shanfang Bicong, Gujin Weishu Kao, etc. |
 
 ## 项目特色 · Features
 
