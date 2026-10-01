@@ -148,6 +148,20 @@ There are cases where an army sets aside its preparations and lays down its auth
 
 > 对照要点：今本首句作"兵以静胜，国以专胜"，汉简作"兵以静固，以槫（专）胜"，"静固/静胜"用字有异，而"专"（兵力集中）一义两本皆有；汉简独有"曲胜者，其胜全，虽不曲胜，胜劝（权）"，与今本第8段"曲胜，言非全也。非全胜者，无权名"相通而文字不同——汉简强调权谋之胜非全胜，今本仅存功能性表述，思想重心发生偏移；汉简"囚险者毋战心，搕战毋胜兵，佻战毋全气"对应今本第7段"分险者无战心，挑战者无全气，斗战者无胜兵"，句序与用字互异；汉简"众聚不虚散，兵出不徒〔归〕"对应今本第6段"众已聚不虚散，兵出不徒归"，亦多出"求敌若求亡子"之意。
 
+### 历代文献引录 · Quotations in Historical Sources
+
+**《陶庐杂录》卷五、《九经古义》卷二、《兵垒》卷一（清）· Qing collation and military works**
+
+> 引《尉缭子》"兵以静胜"（对应本篇第1段）、"兵有去备彻威而胜者也"（对应本篇第9段）。
+
+*These Qing works quote the received lines "an army wins by stillness" (paragraph 1) and "there are cases where an army sets aside its preparations and lays down its authority, yet still wins" (paragraph 9).*
+
+**《金陵秋》卷十五（近代）· Jinling Qiu (modern)**
+
+> 引《尉缭子》"众已聚不虚散，兵已出不徒归"，对应本篇第6段。
+
+*The modern novel Jinling Qiu quotes "when troops gather, they do not disperse in vain; when soldiers march out, they do not return empty-handed," corresponding to paragraph 6.*
+
 ---
 
 *来源：[中国哲学书电子化计划](https://ctext.org/wei-liao-zi/gong-quan/zhs)*

@@ -120,6 +120,20 @@ Before arrows are exchanged and long weapons clash, those who shout from the fro
 
 > 对照要点：今本首句作"兵者，凶器也。争者，逆德也"，汉简作"兵者，凶器、逆德；争者，事之末也"，删去了将战争定位为"末事"的评价——《群书治要》本亦存"争者、事之末也"，唯句序与文气不同；今本第2段作"兵者以武为植，以文为种。武为表，文为里"，汉简作"以武为栋，以文为□；以武为表，以文……以文为内"，"植/栋""里/内"用字有变，且汉简作"能审此三者"、今本作"能审此二者"；今本第3段作"专一则胜，离散则败"，汉简作"兵以专壹胜，以离散败"，用字略异；今本第3段作"卒畏将甚于敌者胜，卒畏敌甚于将者败"，汉简作"卒畏将于敌者战胜，卒畏敌于将者战北"；今本第7段作"前噪者谓之虚，后噪者谓之实，不噪者谓之秘"，汉简作"先謞者虚，后謞胃（谓）之实，不謞谓之闭"，"噪/謞""秘/闭"皆异。
 
+### 历代文献引录 · Quotations in Historical Sources
+
+**《盐铁论》卷十一（汉·桓宽）· Yantielun (Han)**
+
+> "兵者凶器也，争者逆德也，事必有本"，对应本篇第1段。
+
+*The Yantielun: "Weapons are inauspicious instruments, contention is the negation of virtue, and every matter has its foundation," corresponding to paragraph 1.*
+
+**《诗名物疏》卷二十二、《左传补注》卷五（明、清）· Shimingwushu and Zuozhuan Buzhu**
+
+> 引《尉缭子》"坐之兵剑斧，立之兵戟弩"、"立陈所以行也"，并对应本篇第5段。
+
+*These works quote "in a sitting formation, soldiers carry swords and axes; in a standing formation, they wield halberds and crossbows" and "a standing formation is for advancing," both corresponding to paragraph 5.*
+
 ---
 
 *来源：[中国哲学书电子化计划](https://ctext.org/wei-liao-zi/bing-ling-shang/zhs)*

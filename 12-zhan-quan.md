@@ -50,6 +50,16 @@ Elevate it with the discourse of halls and temples, reinforce it with the argume
 
 本章仅存武经七书本一种版本，无其他版本异文，整合版即其全文，此处从略。
 
+### 历代文献引录 · Quotations in Historical Sources
+
+**《孙子集注》《十一家注孙子》（宋）· Sunzi Jizhu and Shiyijia Zhu Sunzi (Song)**
+
+> 引《尉缭子》"权敌审将而后举兵"，与本篇论"权""武"之旨相通。
+
+*These Sunzi commentaries quote the Wei Liaozi's "weigh the enemy and assess the general, and only then raise troops," cognate with this chapter's discussion of authority and martial power.*
+
+> 校勘：此语不见于今本《战权》正文，或系《尉缭子》佚文而为宋人所见。
+
 ---
 
 *来源：[中国哲学书电子化计划](https://ctext.org/wei-liao-zi/zhan-quan/zhs)*

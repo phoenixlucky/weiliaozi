@@ -10,9 +10,9 @@
 
 ## 章节目录 · Table of Contents
 
-每章均以**终极整合版**（以武经七书本为底本、综合各版本校勘的最佳文本，中英对照）开篇，武经七书本、群书治要本、太平御览引文、银雀山汉简等各版本全文列于其后对照。
+每章均以**终极整合版**（以武经七书本为底本、综合各版本校勘的最佳文本，中英对照）开篇，武经七书本、群书治要本、太平御览引文、银雀山汉简等各版本全文列于其后对照；与本章相关的历代文献征引，另列于"历代文献引录"。
 
-*Each chapter opens with an **ultimate reconstructed text** (the best reading collated from all witnesses on the basis of the Wujing Qishu recension, with Chinese and English side by side); the full texts of the Wujing Qishu, the Qunshu Zhiyao, the Taiping Yulan quotations, and the Yinqueshan bamboo slips follow below for comparison.*
+*Each chapter opens with an **ultimate reconstructed text** (the best reading collated from all witnesses on the basis of the Wujing Qishu recension, with Chinese and English side by side); the full texts of the Wujing Qishu, the Qunshu Zhiyao, the Taiping Yulan quotations, and the Yinqueshan bamboo slips follow below for comparison, together with a "Quotations in Historical Sources" subsection for that chapter.*
 
 | # | 篇名 Title | 英文标题 English Title | 附注 Notes |
 |---|------|---------|------|
@@ -40,8 +40,7 @@
 | 22 | [兵教下](22-bing-jiao-xia.md) | Military Training, Part II | 仅武经七书本一种版本 · Wujing Qishu only |
 | 23 | [兵令上](23-bing-ling-shang.md) | Military Orders, Part I | 版本对照：银雀山汉简 · Han slips |
 | 24 | [兵令下](24-bing-ling-xia.md) | Military Orders, Part II | 版本对照：银雀山汉简 / 群书治要本 / 太平御览引文 · Han slips / Qunshu Zhiyao / Taiping Yulan |
-| — | [附录：银雀山汉简辑录](appendix-yinqueshan-bamboo-slips.md) | Yinqueshan Bamboo Slips | 出土文献 · 六篇汉简释文与佚文 · excavated bamboo slips, six reconstructed chapters and fragments |
-| — | [附录：历代文献辑录](appendix-external-references.md) | External References | 文心雕龙、史记、通典、太平御览服章部、北堂书钞、玉海、郡斋读书志、直斋书录解题、习学记言序目、少室山房笔丛、古今伪书考等 · Wenxin Diaolong, Shiji, Tongdian, Taiping Yulan (Garments), Beitang Shuchao, Yuhai, Junzhai Dushu Zhi, Zhizhai Shulu Jieti, Xixue Jiyan, Shaoshi Shanfang Bicong, Gujin Weishu Kao, etc. |
+| — | [附录：考据与著录](appendix-textual-history.md) | Textual History & Bibliography | 银雀山汉简综述与零散佚文、历代评述与著录源流、无章可系佚文、类书征引综录表 · Yinqueshan slip overview and fragments, historical appraisals, cataloguing history, cross-chapter quotation tables |
 
 ## 项目特色 · Features
 
@@ -62,19 +61,19 @@
 | **武经七书本**（底本）<br>Wujing Qishu edition (base) | 北宋 · N. Song | 24篇全 · all 24 | 最完整的传世本 · the most complete received text |
 | **群书治要本**（异文）<br>Qunshu Zhiyao edition | 唐·魏徵编 · Tang, ed. Wei Zheng | 4篇选录 · 4 chapters | 唐代抄本，文字有重要差异 · Tang manuscript with significant textual variants |
 | **太平御览引文**（佚文）<br>Taiping Yulan quotations | 宋·李昉编 · Song, ed. Li Fang | 多条 · many entries | 类书引文，保存古本面貌 · encyclopedia quotations preserving archaic readings |
-| **银雀山汉简**（出土文献）<br>Yinqueshan bamboo slips | 西汉早期 · early W. Han | 6篇+佚文 · 6 chapters + fragments | 最接近古本的出土文本，见 [附录：银雀山汉简辑录](appendix-yinqueshan-bamboo-slips.md) · excavated text closest to the ancient original |
+| **银雀山汉简**（出土文献）<br>Yinqueshan bamboo slips | 西汉早期 · early W. Han | 6篇+佚文 · 6 chapters + fragments | 最接近古本的出土文本，各篇释文见对应章节"版本对照"，总论见 [附录：考据与著录](appendix-textual-history.md) · excavated text closest to the ancient original, transcribed in each chapter's Version Comparison |
 
-### 类书引文辑录 · Quotations from Medieval Encyclopedias
+### 历代文献引录 · Quotations in Historical Sources
 
-从《太平御览》《通典》《卫公兵法》《墨子闲诂》《初学记》《唐李问对》《北堂书钞》《文选》李善注等唐宋文献，以及《大学衍义补》《御定渊鉴类函》等后代类书、注疏中辑录了《尉缭子》引文，与传世本逐条对照，揭示文本演变轨迹。其中不见于今本的佚文包括：《太平御览·服章部一·总叙冠》所引"冠之于人也，寒不能暖，风弗能障""鲁人身善制冠，妾善织履"两条，以及《北堂书钞·衣冠部》《御定渊鉴类函·服饰部》所引"天子文衣文缘"一条，均系本次辑录新增。
+从《太平御览》《通典》《卫公兵法》《墨子闲诂》《初学记》《唐李问对》《北堂书钞》《文选》李善注等唐宋文献，以及《大学衍义补》《御定渊鉴类函》等后代类书、注疏中辑录的《尉缭子》引文，凡与某篇相关者，已逐条并入该章"版本对照"之下的"历代文献引录"，与传世本对照，揭示文本演变轨迹。其中不见于今本的冠服佚文，如《太平御览·服章部一·总叙冠》所引"冠之于人也，寒不能暖，风弗能障""鲁人身善制冠，妾善织履"两条，及《北堂书钞·衣冠部》《御定渊鉴类函·服饰部》所引"天子文衣文缘"一条，均附于 [10 原官](10-yuan-guan.md) 章；跨章的类书征引综录表与历代著录源流，见 [附录：考据与著录](appendix-textual-history.md)。
 
-*Quotations of the Wei Liaozi are collected from Tang-Song sources such as the Taiping Yulan, Tongdian, Wei Gong Bingfa (Li Jing's Methods), Mozi Xiangu, Chuxue Ji, Tang Taizong Li Jing Wendui, the Beitang Shuchao, and Li Shan's Wenxuan commentary, as well as later encyclopedias and commentaries such as the Daxue Yanyi Bu and Yuding Yuanyu Leihan, then compared item by item with the received text to trace the evolution of the work. Fragments absent from the received text include two quoted in the Taiping Yulan (Garments 1: Caps, General Account) — "As for the cap upon a man: it cannot warm him in cold, cannot shield him from wind" and "A man of Lu was skilled at making caps, and his concubine skilled at weaving shoes" — and one quoted in the Beitang Shuchao (Garments) and the Yuding Yuanyu Leihan (Garments), "the Son of Heaven's robes are patterned, and their borders are patterned"; all are newly added in this collection.*
+*Quotations of the Wei Liaozi collected from Tang-Song sources (the Taiping Yulan, Tongdian, Wei Gong Bingfa, Mozi Xiangu, Chuxue Ji, Tang Li Wendui, Beitang Shuchao, Li Shan's Wenxuan commentary) and from later encyclopedias and commentaries (the Daxue Yanyi Bu, Yuding Yuanyu Leihan), where they relate to a given chapter, have been merged into that chapter's "Quotations in Historical Sources" under Version Comparison, set against the received text to trace the work's evolution. Cap-and-garment fragments absent from the received text — the two quoted in the Taiping Yulan (Garments 1: Caps) and the one from the Beitang Shuchao and Yuding Yuanyu Leihan — are appended to chapter 10; the cross-chapter quotation tables and the history of cataloguing appear in the appendix.*
 
 ### 银雀山汉简 · The Yinqueshan Bamboo Slips
 
-收录1972年山东临沂银雀山汉墓出土的《尉缭子》六篇汉简释文（〈兵谈〉〈攻权〉〈守权〉〈将理〉〈原官〉〈兵令〉）及零散佚文，与今本逐段对照，呈现今本在流传中删削的"胜于丧纪、土功、市井"等治国维度、"小鱼渔渊"战略层级理论与"不杀夭胎"军事伦理等佚失内容。
+1972年山东临沂银雀山汉墓出土的《尉缭子》六篇汉简释文（〈兵谈〉〈攻权〉〈守权〉〈将理〉〈原官〉〈兵令〉），与今本逐段对照，已列入 [02 兵谈](02-bing-tan.md)、[05 攻权](05-gong-quan.md)、[06 守权](06-shou-quan.md)、[09 将理](09-jiang-li.md)、[10 原官](10-yuan-guan.md)、[23 兵令上](23-bing-ling-shang.md)、[24 兵令下](24-bing-ling-xia.md) 各章"版本对照"；汉简综述、零散佚文与今本古本差异对照表，见 [附录：考据与著录](appendix-textual-history.md)。由此呈现今本在流传中删削的"胜于丧纪、土功、市井"等治国维度、"小鱼渔渊"战略层级理论与"不杀夭胎"军事伦理等佚失内容。
 
-*Transcriptions of the six chapters recovered from the Han tomb at Yinqueshan, Linyi, Shandong (1972) — Bing Tan, Gong Quan, Shou Quan, Jiang Li, Yuan Guan, Bing Ling — together with scattered fragments, are set against the received text passage by passage, revealing what was excised in transmission: the governance dimensions of "prevailing over mourning rites, public works, and markets," the tiered strategy of "small fish fish the deep waters," and the martial-ecological ethic of "do not kill the unborn, do not cut unripe timber."*
+*Transcriptions of the six chapters recovered from the Han tomb at Yinqueshan, Linyi, Shandong (1972) — Bing Tan, Gong Quan, Shou Quan, Jiang Li, Yuan Guan, Bing Ling — are set against the received text in the Version Comparison sections of chapters 02, 05, 06, 09, 10, 23, and 24; the overview, scattered fragments, and core-differences table appear in the appendix. Together they reveal what was excised in transmission: the governance dimensions of "prevailing over mourning rites, public works, and markets," the tiered strategy of "small fish fish the deep waters," and the martial-ecological ethic of "do not kill the unborn, do not cut unripe timber."*
 
 ### 文本校勘 · Textual Collation
 
@@ -109,13 +108,12 @@ weiliaozi/
 ├── README.md                     # 项目说明 · project overview
 ├── LICENSE                        # CC BY 4.0 开源协议 · license
 ├── 01-tian-guan.md ~ 24-bing-ling-xia.md  # 24章正文 · the 24 chapters
-├── appendix-yinqueshan-bamboo-slips.md    # 银雀山汉简辑录附录 · Yinqueshan bamboo slips
-└── appendix-external-references.md        # 历代文献辑录附录 · external references
+└── appendix-textual-history.md    # 考据与著录附录 · textual history & bibliography
 ```
 
-每章均以终极整合版开篇，下方为版本对照（武经七书本 → 群书治要本 → 太平御览引文 → 银雀山汉简）；仅存武经七书本一种版本的章节在版本对照区注明。两个附录（银雀山汉简辑录、历代文献辑录）亦为中英对照。
+每章均以终极整合版开篇，下方为版本对照（武经七书本 → 群书治要本 → 太平御览引文 → 银雀山汉简），并设"历代文献引录"列本章相关的历代征引；仅存武经七书本一种版本的章节在版本对照区注明。附录（考据与著录）亦为中英对照。
 
-*Each chapter opens with the ultimate reconstructed text, followed below by the version comparison (Wujing Qishu → Qunshu Zhiyao → Taiping Yulan quotations → Yinqueshan bamboo slips); chapters preserving only the Wujing Qishu recension so indicate in the comparison section. The two appendices (the Yinqueshan bamboo-slip compilation and the compilation of quotations from historical sources) are likewise bilingual.*
+*Each chapter opens with the ultimate reconstructed text, followed below by the version comparison (Wujing Qishu → Qunshu Zhiyao → Taiping Yulan quotations → Yinqueshan bamboo slips) and a "Quotations in Historical Sources" subsection for that chapter; chapters preserving only the Wujing Qishu recension so indicate in the comparison section. The appendix (Textual History and Bibliography) is likewise bilingual.*
 
 ## 开源协议 · License
 

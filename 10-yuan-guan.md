@@ -120,6 +120,21 @@ When feudal lords strictly observe the Son of Heaven's rites, and rulers and min
 
 > 对照要点：今本第2段作"均井地，节赋敛"，汉简作"均地分，节傅（赋）敛"，"井地/地分"表述不同；今本第5段作"俎豆同制，天子之会也"，汉简作"柤（俎）豆同利制天下"，"制"字归属与句意有别；今本第6段作"上无庆赏，民无狱讼，国无商贾，何王之至？"，汉简作"上无庆赏，民无狱讼，国无商贾，成王至正也"，一作反诘问句、一作判断句，句式互异；汉简"明礼常"（明礼制纲常）为今本所无，今本第3段仅存"明法稽验"等法家表述。
 
+### 历代文献引录 · Quotations in Historical Sources
+
+**冠服佚文 · Fragments on Caps and Attire**
+
+> 《隋书》引《尉缭子》曰："天子玄缨，诸侯素缨。"
+> 《北堂书钞》卷一二七《衣冠部·缨》引《尉缭子》曰："天子玄冠玄缨，诸侯素缨，士大夫以下皆皂冠皂缨。"
+> 《太平御览·服章部一·总叙冠》引《尉缭子》曰："冠之于人也，寒不能暖，风弗能障，暴不能敌，然而戴冠履屦者，其所自托者然。"
+> 又曰："鲁人身善制冠，妾善织履。往徙于越而大困，以有用游于不用之乡也。"
+> 《北堂书钞》卷一二九《衣冠部·衣》《御定渊鉴类函》卷三七三《服饰部·衣》引《尉缭子》曰："天子文衣文缘。"
+> 《事类赋》卷十二引《尉缭子》曰："天子玄冠玄缨，诸侯素冠素缨。"
+
+*The Suishu quotes: "The Son of Heaven has dark tassels, the feudal lords plain tassels." The Beitang Shuchao quotes: "The Son of Heaven wears a dark cap with dark tassels, the feudal lords plain tassels, and the grand officers and below all black caps with black tassels." The Taiping Yulan quotes: "As for the cap upon a man: it cannot warm him in cold, cannot shield him from wind, cannot withstand the glare of the sun; yet men wear caps and shoes because that is what they rely upon." It further says: "A man of Lu was skilled at making caps, and his concubine skilled at weaving shoes. When they moved to Yue they fell into great hardship, for they brought what was useful into a land where it was of no use." The Beitang Shuchao and the Yuding Yuanyu Leihan quote: "The Son of Heaven's robes are patterned, and their borders are patterned." The Shileifu quotes: "The Son of Heaven wears a dark cap with dark tassels, the feudal lords plain caps with plain tassels."*
+
+> 校勘：①"冠之于人也"条论冠无所实用而人犹戴之，与《原官》"贵爵富禄必称，尊卑之体也"的等级服饰思想相通；②"鲁人身善制冠"条亦见《韩非子·说林上》与《说苑·反质》，文字互异，而《太平御览》归之《尉缭子》，或为原书杂家类内容之遗存；③冠缨、文衣文缘制反映战国服饰等级规范，属佚失的"国家制度"类内容；④《太平御览》服章部两条异文（"大夫已下练冠练缨"与"自大夫以下，皆皂冠皂缨"）另见上方"太平御览引文"。
+
 ---
 
 *来源：[中国哲学书电子化计划](https://ctext.org/wei-liao-zi/yuan-guan/zhs)*

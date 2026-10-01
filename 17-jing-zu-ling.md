@@ -32,6 +32,14 @@ When drums sound and the formations engage in battle, advancing while at the fro
 
 本章仅存武经七书本一种版本，无其他版本异文，整合版即其全文，此处从略。
 
+### 历代文献引录 · Quotations in Historical Sources
+
+**《礼说》卷十（清·惠士奇）· Hui Shiqi, Lishuo (Qing)**
+
+> 引《尉缭子》"卒有五章"，对应本篇第1段。
+
+*The Lishuo quotes the Wei Liaozi's "the soldiers had five insignia," corresponding to paragraph 1 of this chapter.*
+
 ---
 
 *来源：[中国哲学书电子化计划](https://ctext.org/wei-liao-zi/jing-zu-ling/zhs)*

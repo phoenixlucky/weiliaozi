@@ -38,6 +38,14 @@ When the *shi* and *wu* are interconnected, and superiors and subordinates linke
 
 本章仅存武经七书本一种版本，无其他版本异文，整合版即其全文，此处从略。
 
+### 历代文献引录 · Quotations in Historical Sources
+
+**《钦定历代职官表》卷五十八（清）· Qinding Lidai Zhiguan Biao (Qing)**
+
+> 引《尉缭子》"军中之制，五人为伍，十人为什"，对应本篇第1段。
+
+*This Qing official table of offices quotes the Wei Liaozi's "the system in the army: five men form a wu, ten men form a shi," corresponding to paragraph 1 of this chapter.*
+
 ---
 
 *来源：[中国哲学书电子化计划](https://ctext.org/wei-liao-zi/wu-zhi-ling/zhs)*

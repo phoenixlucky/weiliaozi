@@ -208,6 +208,46 @@ A hardworking army will have a general who leads by example. In summer, he does 
 
 > 主要异文：武经七书本《战威》共15段，内容丰富，包括道胜/威胜/力胜三胜、夺敌五论、举贤任能、将帅率先垂范等；群书治要本仅选录了其中关于"命令"的核心段落，文字更为精炼。
 
+### 历代文献引录 · Quotations in Historical Sources
+
+**《文选》李善注（唐）· Li Shan's Wenxuan Commentary (Tang)**
+
+> 引《尉缭子》"未有不能得其力而救其死"，对应本篇第5段。
+
+*Li Shan quotes the Wei Liaozi: "There has never been one who, not gaining their strength, could save them from death," corresponding to paragraph 5.*
+
+> 校勘：今本作"未有不得其力而能致其死战者也"，引文省并。
+
+**《长短经》卷一（唐·赵蕤）· Changduan Jing (Tang)**
+
+> 引《尉缭子》"令者所以一众心也"（今本作"令者一众心也"），对应本篇第4段。
+
+*The Changduan Jing quotes "the command is that by which the hearts of the many are made one," corresponding to paragraph 4.*
+
+**《孙子集注》《十一家注孙子》（宋）· Sunzi Jizhu and Shiyijia Zhu Sunzi (Song)**
+
+> 引《尉缭子》"讲武料敌……此道胜也"，对应本篇第1段。
+
+*These Sunzi commentaries quote "discussing military matters and assessing the enemy … this is victory through the Way," corresponding to paragraph 1.*
+
+**《大学衍义补》卷一二九（明·丘濬）· Daxue Yanyi Bu (Ming)**
+
+> 引《尉缭子》"天时不如地利"，对应本篇第14段。
+
+*The Daxue Yanyi Bu quotes "Heaven's timing is not as good as earth's advantage," corresponding to paragraph 14.*
+
+**《陶庐杂录》卷五（清·法式善）· Taolu Zalu (Qing)**
+
+> 引《尉缭子》"未有不信其心而能得其力者也"，对应本篇第5段。
+
+*The Taolu Zalu quotes "there has never been one who, not gaining their hearts, could gain their strength," corresponding to paragraph 5.*
+
+**朝鲜《承政院日记》《朝鲜王朝实录》等 · Joseon court records**
+
+> 引《尉缭子》"上无疑令，则众不二听"，对应本篇第5段。
+
+*Joseon court records quote "when superiors issue no uncertain orders, the people will not have divided loyalties," corresponding to paragraph 5.*
+
 ---
 
 *来源：[中国哲学书电子化计划](https://ctext.org/wei-liao-zi/zhan-wei/zhs)* | 群书治要版：[卷三十七](https://ctext.org/text.pl?node=418336&if=gb&remap=gb)

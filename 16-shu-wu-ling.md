@@ -26,6 +26,22 @@ The law of execution in battle states: A leader of ten may execute ten men; a le
 
 本章仅存武经七书本一种版本，无其他版本异文，整合版即其全文，此处从略。
 
+### 历代文献引录 · Quotations in Historical Sources
+
+**《玉海》"符节"（宋·王应麟）· Wang Yinglin, Yuhai (Song)**
+
+> 尉缭子束伍令曰："五人为伍，共一符，收于将吏之所。"
+
+*The Wei Liaozi's Shu Wu Ling says: "Five men form a squad; they share one tally, kept in the keeping of the general's officers."*
+
+> 校勘：此句与今本《束伍令》首句全同，可证《玉海》所据与传世本一致，并见"束伍令"之名在宋代的流传。
+
+**《武经总要》前集（宋·曾公亮等）· Wujing Zongyao (Song)**
+
+> 引李靖问对："《司马法》曰'五人为伍'，《尉缭子》有束伍令。"
+
+*The Wujing Zongyao quotes the Li Jing Questions and Replies: "The Sima Fa says 'five men form a squad'; the Wei Liaozi has the Shu Wu Ling."*
+
 ---
 
 *来源：[中国哲学书电子化计划](https://ctext.org/wei-liao-zi/shu-wu-ling/zhs)*

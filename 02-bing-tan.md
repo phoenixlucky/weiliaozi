@@ -112,6 +112,16 @@ Where the army reaches, it can prevail even on narrow paths like a sheep's intes
 
 > 对照要点：汉简首句作"〔量土地肥〕硗而立邑建城"，今本作"量土地肥墝而立邑建城"，"硗/墝"音义相通（皆指贫瘠之地），且汉简下文多出"以城称地，以地称人"的连锁句；汉简独有"胜于丧纪、胜于土功、胜于市井"，将战争胜负与丧礼、土木工程、市场治理并论，是"政兵一体"思想的直接体现——此句与《群书治要》本一致（治要本作"胜于丧绝（绝疑纪），胜于土功，胜于市井"），今本《武经七书》已删；汉简"战再胜，当壹败""临生不为死，临死不为生"等句亦为今本所无。
 
+### 历代文献引录 · Quotations in Historical Sources
+
+**《后汉孝灵皇帝纪》卷二十五注 · Commentary to the Annals of Emperor Xiaoling of the Later Han**
+
+> 下注尉缭子曰："若秘于地，若邃于天是也。守则固，是自保也；攻则取，是全胜也。"
+
+*The commentary cites the Wei Liaozi: "As if hidden in the earth, as if deep in the heavens — that is it. To defend is to be secure, which is self-preservation; to attack is to take, which is complete victory."*
+
+> 校勘：今本《兵谈》作"治兵者，若秘于地，若邃于天，生于无，故关之"，此注引申为"守则固…攻则取…"，可见该句在后世的注解流传。
+
 ---
 
 *来源：[中国哲学书电子化计划](https://ctext.org/wei-liao-zi/bing-tan/zhs)* | 群书治要版：[卷三十七](https://ctext.org/text.pl?node=418334&if=gb&remap=gb)

@@ -26,6 +26,16 @@ Regret lies in entrusting matters to those one doubts. Disaster lies in slaughte
 
 本章仅存武经七书本一种版本，无其他版本异文，整合版即其全文，此处从略。
 
+### 历代文献引录 · Quotations in Historical Sources
+
+**《三朝北盟会编》卷一九〇（宋·徐梦莘）· Xu Mengxin, Sanchao Beimeng Huibian (Song)**
+
+> 引《尉缭子》"机在于应事，政在于意表"，对应本篇第1段。
+
+*The Sanchao Beimeng Huibian quotes the Wei Liaozi's "opportunity lies in responding to affairs, government lies beyond expectation," corresponding to paragraph 1 of this chapter.*
+
+> 校勘：引文"政在于意表"与今本"攻在于意表"一字之异。
+
 ---
 
 *来源：[中国哲学书电子化计划](https://ctext.org/wei-liao-zi/shi-er-ling/zhs)*

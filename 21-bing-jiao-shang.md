@@ -74,6 +74,14 @@ The vanguard that cuts through enemy lines and disrupts their formation, breakin
 
 本章仅存武经七书本一种版本，无其他版本异文，整合版即其全文，此处从略。
 
+### 历代文献引录 · Quotations in Historical Sources
+
+**《左传补注》卷五（清·惠栋）· Hui Dong, Zuozhuan Buzhu (Qing)**
+
+> 引《尉缭子》"凡伍临陈"，对应本篇第2段。
+
+*The Zuozhuan Buzhu quotes the Wei Liaozi's "whenever a group is in battle formation," corresponding to paragraph 2 of this chapter.*
+
 ---
 
 *来源：[中国哲学书电子化计划](https://ctext.org/wei-liao-zi/bing-jiao-shang/zhs)*

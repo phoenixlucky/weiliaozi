@@ -126,6 +126,22 @@ Liang Huiwang asked Wei Liaozi, "Is it true that the Yellow Emperor's penal and 
 
 > 异文演变：「公子心」→「将军子正」→「将军子心」。三处人名各不相同，当为传抄讹变。又「初夜」太平御览妖星条作「初夜」，墨子闲诂引作「夜」，武经七书本无时间状语。
 
+### 历代文献引录 · Quotations in Historical Sources
+
+**《唐李问对》卷下（唐·李靖）· Questions and Replies between Tang Taizong and Li Jing, vol. 2**
+
+> 臣案《尉缭子》曰："黄帝以德守之，以刑伐之。"是谓刑德，非天官时日之谓也。然诡道可使由之，不可使知之。后世庸将泥于术数，是以多败，不可不诫也。
+
+*"I examined the Wei Liaozi, which says: 'The Yellow Emperor defended with virtue and attacked with punishment.' This is what is meant by xingde — not the heavenly officials and auspicious days. Yet the arts of deception may be made use of but cannot be explained. Later mediocre generals became mired in numerology, which is why many were defeated."*
+
+> 校勘：今本《天官》作"刑以伐之，德以守之"，此引语序倒置作"以德守之，以刑伐之"；李靖明言"是谓刑德，非天官时日之谓"，与今本"非世之所谓刑德也"同旨，可证唐代所见文本与传世本同源而文字有异。
+
+**《陶庐杂录》卷五、《周易述》卷十一（清）· Taolu Zalu and Zhouyi Shu (Qing)**
+
+> 引《尉缭子》"先神先鬼"，与本篇第5段"黄帝曰：'先神先鬼，先稽我智。'"相应。
+
+*These Qing works quote the line "first consult the spirits and ghosts," corresponding to paragraph 5 of this chapter.*
+
 ---
 
 *来源：[中国哲学书电子化计划](https://ctext.org/wei-liao-zi/tian-guan/zhs)* | 群书治要版：[卷三十七](https://ctext.org/text.pl?node=418331&if=gb&remap=gb)

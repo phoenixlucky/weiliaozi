@@ -172,6 +172,22 @@ To take possession of another's land and raise as one's own the people of others
 
 > 异文：太平御览以问答体出之，较武经七书本更近于口语，或为古本原貌。
 
+### 历代文献引录 · Quotations in Historical Sources
+
+**《习学记言序目》卷四十六（宋·叶适）· Ye Shi, Xixue Jiyan Xumu (Song)**
+
+> 今国被患者，以重宝出聘，以爱子出质，以地界出割，得天下助卒，名为十万，其实不过数万尔……
+
+*"A state that suffers calamity sends out heavy treasures in betrothal-gifts, sends out beloved sons as hostages, cuts off and cedes border lands, and obtains the feudal lords' aiding troops — nominally a hundred thousand, in fact no more than a few tens of thousands…"*
+
+> 校勘：出本篇第8段，"重宝"今本作"重币"。
+
+**《初学记》卷二十二、《山堂肆考》卷一七九（唐、明）· Chuxue Ji and Shantang Sikao**
+
+> 引《尉缭子》"一贼挟剑击于市，万人无不避之"，对应本篇第6段。
+
+*These encyclopedias quote the Wei Liaozi's "one bandit brandishes a sword and attacks in the marketplace, ten thousand people all avoid him," corresponding to paragraph 6 of this chapter.*
+
 ---
 
 *来源：[中国哲学书电子化计划](https://ctext.org/wei-liao-zi/zhi-tan/zhs)*

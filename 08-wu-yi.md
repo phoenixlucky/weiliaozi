@@ -246,6 +246,38 @@ Wu Qi was fighting against Qin before the forces had fully engaged when a single
 
 > 异文：「卖食棘津」武经七书本作「卖食盟津」（地名不同）；「人皆曰狂丈夫」武经七书本作「人人谓之狂夫也」；「遇七十馀主不听」武经七书本作「过七十馀而主不听」。
 
+### 历代文献引录 · Quotations in Historical Sources
+
+**《卫公兵法》（唐·李靖）· Li Jing, Wei Gong Bingfa (Tang)**
+
+> 《尉缭子》曰："吴起与秦人战，战而未合，有一夫不胜勇，乃怒而前，获首而返。吴起斩之。吏曰：'此壮士也，不可斩。'吴子曰：'虽壮士，不从令者必斩之。'"
+
+*The Wei Liaozi says: "Wu Qi fought with the men of Qin. Before the armies joined battle, one man, unable to master his courage, angrily charged forward, took a head, and returned. Wu Qi had him executed. An official said, 'This is a brave warrior; he must not be executed.' Wu Qi said, 'Though he be a brave warrior, one who disobeys orders must be executed.'"*
+
+> 校勘：对应本篇第16段吴起斩材士事，今本作"一夫不胜其勇，前获双首而还……材士则是也，非吾令也"，文字略异。
+
+**《通典·兵二·杂教令》（唐·杜佑）· Du You, Tongdian (Tang)**
+
+> 故尉缭子曰："吴起与秦人战，战而未合，有一夫不胜其勇，乃怒而前，获首而返。吴起斩之。吏曰：'此壮士也，不可斩。'吴子曰：'虽壮士，然不从令者，必斩之。'"
+
+*Thus the Wei Liaozi says: "Wu Qi fought with the men of Qin … An official said, 'This is a brave warrior; he must not be executed.' Wu Qi said, 'Though he be a brave warrior, yet one who disobeys orders must be executed.'"*
+
+> 校勘：与《卫公兵法》引文相比，《通典》多"其"字（"不胜其勇"）、"然"字（"然不从令者"），用字略异。
+
+**《习学记言序目》卷四十六（宋·叶适）· Ye Shi, Xixue Jiyan Xumu (Song)**
+
+> 凡兵不攻无过之城，不杀无罪之人。夫杀人之父兄，利人之货财，臣妾人之子女，皆盗也。尉缭子言兵，犹能立此论。
+
+*"In all military affairs, do not attack a city without fault, do not kill a man without crime. To kill men's fathers and brothers, to profit from their goods, to enslave their sons and daughters — all this is robbery. The Wei Liaozi, in speaking of war, could still set forth this doctrine."*
+
+> 校勘：出本篇第1段。
+
+**《文选》李善注、《北堂书钞》卷一一三、《史记》三家注、《大学衍义补》《武编》（唐宋明清）· Other quotations**
+
+> 引《尉缭子》"太公屠牛朝歌""太公望行年七十，卖食棘津"（对应本篇第8段）、"一人之兵如狼如虎"（对应第11段）、"凡兵不攻无过之城"（对应第1段）、"吴起与秦人战"（对应第16段）等。
+
+*These Tang through Qing works quote such lines as "Tai Gong butchers cattle at Chaoge" and "Tai Gong Wang at seventy sold food at Jijin" (paragraph 8), "an army led by one such person is like wolves and tigers" (paragraph 11), "do not attack a city without fault" (paragraph 1), and "Wu Qi fought with the men of Qin" (paragraph 16).*
+
 ---
 
 *来源：[中国哲学书电子化计划](https://ctext.org/wei-liao-zi/wu-yi/zhs)*

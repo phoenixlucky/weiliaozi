@@ -210,6 +210,32 @@ I have heard that ancient skillful generals in the use of troops could sacrifice
 
 > 对照要点：今本第2段作"兵戍边一岁，遂亡不候代者，法比亡军"，汉简作"□述（遂）亡不从其将吏，比于亡军"，"亡军"之律两本皆有而表述略异；今本第4段作"诸战而亡其将吏者，及将吏弃卒独北者，尽斩之"，汉简作"战而失其将吏，及将吏战而死，卒独北而环（还），其法当尽斩之"；今本第5段作"三军大战，若大将死，而从吏五百人以上不能死敌者，斩"，汉简作"军大战，大将死，□□五百以上不能死适（敌）者，皆当斩"；今本第6段作"得其尸，罪皆赦"，汉简作"得其死（尸），罪赦"；今本第10段作"百万之众不用命，不如万人之斗也。万人之斗，不如百人之奋也"，汉简作"百万之众而不战，不如万人之尸；万人而不死，不如百人之鬼"，今本用语经修饰，汉简峻烈直露；今本第11段作"赏如日月，信如四时，令如斧钺，制如干将"，汉简作"信比四时，令严如斧越（钺），利如干浆（将）"，用字互异。
 
+### 历代文献引录 · Quotations in Historical Sources
+
+**《玉海》卷八十六"尉缭子兵书"（宋·王应麟）· Wang Yinglin, Yuhai (Song)**
+
+> 其卒章有曰："古之善用兵者，能杀卒之半，其次杀十三，其下杀其十一。能杀其半者，威加海内，杀十三者，力加诸侯，杀十一者，令行士卒。"
+
+*Its final chapter says: "Of old, those skilled in the use of arms could put to death half their soldiers; the next, thirteen in a hundred; the lowest, eleven in a hundred. He who can kill half adds might to the whole world; he who kills thirteen adds strength to the feudal lords; he who kills eleven makes orders obeyed among the troops."*
+
+> 校勘：正合今本第10段。
+
+**《郡斋读书志》卷十四（宋·晁公武）· Chao Gongwu, Junzhai Dushu Zhi (Song)**
+
+> 其卒章有曰："古之善用兵者，能杀卒之半，其次杀其十三，其下杀其十一……"呜呼！观此则为术可知矣。
+
+*"Its final chapter says: 'Of old, those skilled in the use of arms could put to death half their soldiers…' Alas! From this one may know his methods."*
+
+> 校勘：晁志为《玉海》"尉缭子兵书"条所本。
+
+**《古今伪书考》（清·姚际恒）· Yao Jiheng, Gujin Weishu Kao (Qing)**
+
+> 又曰："古之善用兵者能杀士卒之半；其次杀其十三；其下杀其十一……"教人以杀，垂之于书，尤堪痛恨！
+
+*"It further says, 'Of old those skilled in the use of arms could kill half their soldiers…' — teaching men to kill and committing it to writing, this is especially to be detested!"*
+
+> 校勘：所引见今本第10段。
+
 ---
 
 *来源：[中国哲学书电子化计划](https://ctext.org/wei-liao-zi/bing-ling-xia/zhs)* | 群书治要版：[卷三十七 兵令](https://ctext.org/text.pl?node=418343&if=gb&remap=gb)
